@@ -23,10 +23,10 @@ Groupe :
 	- Peut être : Maxime (pas paladin, homebrew), Hubert (??? Je doute fortement)
 - Pas de darons
 - Sur la compo de 2 full spellcaster, 3-4 pseudo et 2-3 martials:
-	- Full Spellcaster : Marin et Aimé
+	- Full Spellcaster : Marin
 	- Semi/pseudo spellcaster : Charlotte, Hubert, Liz, ?
 	- Martial : Guillaume, ?,? 
-	- Donc ceux qu'il me manque sont Maxime et Arthur. 
+	- Donc ceux qu'il me manque sont Maxime et Arthur. Et Aimé. Hihihi. :) Tu n'a rien vu Liz.
 - On a (au moins) une créature qui se fait passer pour un humain.
 - 2 personnes ont secrètement un haut statut
 - 1 ou 3+ persos sont des littéraires je pense.

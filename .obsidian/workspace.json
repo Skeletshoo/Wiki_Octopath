@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "Compendium/Party/Prédictions et Notesde Groupes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INDEX"
+              "title": "Prédictions et Notesde Groupes"
             }
           }
         ]
@@ -165,9 +165,9 @@
   },
   "active": "310756f362a00806",
   "lastOpenFiles": [
+    "INDEX.md",
     "Compendium/Party/Player Characters/PJ1.md",
     "Compendium/Party/Player Characters/PJ2.md",
-    "INDEX.md",
     "Compendium/Lore/Events/Timeline Aventure.md",
     "Compendium/Lore/Events/Arrêt des Objets Magiques.md",
     "Compendium/Lore/Events/Timeline_Histoire.md",
