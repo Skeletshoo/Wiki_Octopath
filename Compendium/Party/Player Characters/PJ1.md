@@ -29,7 +29,10 @@ ___
 
 > [!note] Théories
 > C probablement Marin.
-> Le perso 
+> Car il a dit qu'il était grand
+> et ce perso est grand 🧠
+> Semble avoir un gros bouclier, et une espèce de cape/armure, pommeau d'épée visible, humanoïde, très grand, voyageur? Probablement goliath ou semi-géant
+> grosses bottes
 
  
 #### Information Supplémentaires et Liens
