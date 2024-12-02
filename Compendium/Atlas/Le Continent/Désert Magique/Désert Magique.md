@@ -21,7 +21,7 @@ ___
 > | **Capitale** |  `=this.subClass`|
 
 > [!quote|no-t] SOMMAIRE
->Description of the general region Désert Magique.
+>Une large zone de magie morte.
 
 ## __Sur le Désert Magique__
 

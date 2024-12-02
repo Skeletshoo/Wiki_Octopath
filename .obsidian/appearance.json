@@ -2,7 +2,7 @@
   "baseFontSize": 22,
   "translucency": false,
   "cssTheme": "ITS Theme",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "vertical lines of list-2",
     "speech bubbles-2",

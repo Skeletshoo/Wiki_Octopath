@@ -15,6 +15,8 @@ ___
 > [!quote|no-t]
 >Quick description of the continent Le Continent.
 
+![[Sur la gestion des Pays]]
+
 
 > [!column|flex 2]
 > > [!hint]-  PNJs

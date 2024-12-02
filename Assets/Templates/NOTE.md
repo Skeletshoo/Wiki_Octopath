@@ -69,20 +69,21 @@ ___
 > [!quote|no-t] RÉSUMÉ
 >Recap of the session's events here.
 
-#### REF
+#### LIENS
+
 > [!column|flex 3]
 >> [!info|felx] PNJs:
 >> - [[Characters]] (status)
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[PJMARIN]]
->> - [[PJAIME]]
->> - [[PJLIZ]]
->> - [[PJCHA]]
->> - [[PJMAX]]
->> - [[PJGUI]]
->> - [[PJTUTUR]]
->> - [[PJHUB]]
+>> - [[PJ1]]
+>> - [[PJ2]]
+>> - [[PJ3]]
+>> - [[PJ4]]
+>> - [[PJ5]]
+>> - [[PJ6]]
+>> - [[PJ7]]
+>> - [[PJ8]]
 >
 >> [!example|flex] LIEUX:
 >> - [[Lieux]]

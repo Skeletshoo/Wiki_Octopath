@@ -31,7 +31,7 @@ ___
 > 
 > [[Pippo]], mi-vampire, mi-zombie, mais encore vivant,
 > Se dit: "Je suis vraiment dans un pétrin déconcertant."
-> Il chercha, arrivant à Fantasma sans trouver sortie,
+> Il chercha, arrivant à [[Fantasma]] sans trouver sortie,
 > Et la ville semblait rire de sa folie.
 > 
 > Les jours passèrent, [[Pippo]] devint un squelette ambulant,

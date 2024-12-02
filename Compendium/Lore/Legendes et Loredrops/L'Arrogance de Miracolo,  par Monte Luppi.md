@@ -35,3 +35,11 @@ ___
 > Et alors que le Dieu riait, le Mage s’approcha. D’une main sacrilège, il plongea sa main dans la poitrine du Dieu, et lui arracha le coeur.
 > 
 > *Contes et Légendes du Continent, par [[Mysty Starcollar]].*
+
+Personnages : 
+Le Roi
+Le Noble
+Le Mage
+Le Barde
+Le Chevalier
+Le Dieu de la Fin

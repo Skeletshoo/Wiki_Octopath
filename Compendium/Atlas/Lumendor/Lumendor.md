@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Lumendor#Lumendor]]"
 ---
 
-![[banner.jpg|banner]]
+![[chateau_dore.webp|banner]]
 ###### Lumendor
 <span class="sub2">:FasChessRook: Kingdom</span>
 ___
@@ -34,7 +34,7 @@ headerLink: "[[Sur la Cité des Lumières#Sur la Cité des Lumières]]"
 <span class="sub2">:LiFlame:: Légende</span>
 
 > [!quote|no-t]
-> ![[embed.jpg|right wm-sm]]Il est un lieu que les explorateurs n'ont cessé de chercher depuis plusieurs siècles.
+> ![[justin-fawcett-gw546.jpg|right wm-sm]]Il est un lieu que les explorateurs n'ont cessé de chercher depuis plusieurs siècles.
 > 
 > [[Lumendor]], la Cité des Lumières, un royaume de magie et de prospérité. On raconte que les Lumendoriens auraient des décénies voir des siècles d'avance en matière de technologie et de maîtrise de la magie.
 > 

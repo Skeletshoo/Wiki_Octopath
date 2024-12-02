@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Grande Forêt des Fées#Grande Forêt des Fées]]"
 ---
 
-![[banner.jpg|banner]]
+![[ruine_foret.jpg|banner+tall]]
 ###### Grande Forêt des Fées
 <span class="sub2">:FasMap: General Region</span>
 ___
