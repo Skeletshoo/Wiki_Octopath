@@ -1,0 +1,683 @@
+{
+  "editorPosition": "mainView",
+  "attachShortcutToGlobalWindow": true,
+  "globalNamespace": "MF",
+  "formDefinitions": [
+    {
+      "title": "Add New NPC",
+      "name": "NPC",
+      "customClassname": "",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Gender",
+          "label": "Gender:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Masculin', 'Féminin', 'Non-Binaire']"
+          }
+        },
+        {
+          "name": "Race",
+          "label": "Race:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Aarakocra','Aasimar','Goblours','Centaure','Changelin','Drakéide','Nain','Elfe','Fairy','Firbolg','Génasi','Gnome','Goblin','Goliath','Grung','Halfelin','Demi-Elfe','Demi-Orc','Hobgoblin','Humain','Kalashtar','Kenku','Kobold','Léonin','Homme-Lézard','Loxodon','Minotaure','Orc','Owlfolk','Satyr','Shifter','Tabaxi','Tieffelin','Tortle','Triton','Vedalken','Verdan','Warforged','Yuan-Ti','Fée','Mort-Vivant','Pixie','Elfe de Crystal','Géant','Inconnu']"
+          }
+        },
+        {
+          "name": "Affinity",
+          "label": "Affinity:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Amical','Hostile','Neutre','Inconnu']"
+          }
+        },
+        {
+          "name": "Job",
+          "label": "Job:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Maître-animal', 'Arboriculteur','Apiculteur','Attrape-oiseaux','Bouvier','Garçon laitier','Femme laitière','Fauconnier','Agriculteur','Pêcheur','Butineuse','Garde-chasse','Marié','Berger','Entraîneur de chevaux','Chasseur','Maître des chiens','Meunier','Prospecteur','Ranger','Rendu','Berger','Main décurie','Batteuse','Trappeur','Vigneron','Bûcheron','Gardien de zoo','Architecte','Fabricant de briques','Maçon','Charpentier','Maçon dargile','Plâtrier','Couvreur','Tailleur de pierre','Acrobate','Acteur','Cuisinier','Danseur','Gladiateur','Peintre sur verre','Bouffon','Illuminateur','Ménestrel','​​Musicien','Peintre','Joueur de cornemuse','Dramaturge','Poète','Sculpteur','Chanteuse','Soprano','Tatoueur','Lutteur','bagarreur','Écrivain','Comptable','Banquier','Propriétaire de bordel','Proxénète','Chandler','Collectionneur','Entrepreneur','Poissonnerie','Entrepreneur général','Épicier','Maître de guilde','Maître de Stage','Aubergiste','Quincaillerie','Marchand','Colporteur','Propriétaire de plantation','Spéculateur','Vendeur ambulant','Friperie','Commerçant','Courrier','Héraut','Interprète','Linguiste','Messager','Crieur public','Traducteur','Armurier','Forgeron','Forgeron de lames','Relieur','Brasseur','Fabricant de balais','Fabricant de bougies','Cordonnier','Coutelier','Brodeuse','Graveur','Fletcher','Menuisier','Vitrier','Verrier','Fabricant de gants','Orfèvre','Chapelier','Modiste','Bijoutier','Maroquinier','Serrurier','Mercer','Potier','Scribe','Cordier','Sellier','Couturière','Tailleur','Savonnier','Tanneur','Taxidermiste','Bricoler','Fabricant de jouets','Horloger','Forgeron darmes','Tisserand','La Poste','Sculpteur sur bois','Assassin','Bandits','Cambrioleur','Charlatan','Conman','Combattant de coqs','Combattant de gibier','Chef du crime','Coupe-monnaie','Seigneur de la drogue','Clôture','Kidnappeur','Prêteur usurier','Hors-la-loi','Pirates','Braconnier','Contrebandier','Voleur','Maître-Chanteur','Anthropologue','Apprenti','Archéologue','Archiviste','Artificier','Astrologue','Botaniste','Cartographe','Chimiste','Doyen','Ingénieur','Historien','Horloger','Bibliothécaire','Mathématicien','Philosophe','Professeur','Érudit','chercheur','Étudiant','Enseignant','Théologien','Tuteur','Archiduc','Archiduchesse','Aristocrate','Baron','Baronne','Chancelier','Comte','Comtesse','Chef','Gendarme','Courtisan','Diplomate','Duc','Duchesse','Empereur','Impératrice','Archimage','Juge','Roi','Reine','Chevalier','Dame dhonneur','Avocat','Marquis','Maître des monnaies','Maître des fêtes','Ministre','Noble','Orateur','Porte-parole','Prince','Princesse','Intendant','Écuyer','Percepteur des impôts','Vicomte','Vicomtesse','Quartier','Alchimiste','Apothicaire','Docteur','Guérisseur','Herboriste','Sage-femme','Morticien','Infirmière','Médecin','Chirurgien',' Chirurgien','Vétérinaire','Boulangerie','Barbier','Barman','Barmaid','Boucherie','Charbonnier','Châtelaine','Majordome','Ramoneur De Cheminée','Commis','Cuisinier','Copiste','Officier','Croupier','Distillateur','Fleuriste','Jardinier','La Ferme','Fossoyeur','Travailleur de cuisine','Ouvrier','Allume-lampe','Paysagiste','Ouvrier de blanchisserie','Débardeur','Femme de ménage','Majordome','Mineur','Gardien dorphelinat','Page','Servant','Chef Pâtissier','Plumeau','Porteur','Prostituée','Esclave','Balayeuse de rue','Ouvrier de taverne','Attrape-vermine','Porteur deau','Abjurateur','Augurateur','Conjurateur','Elémentaliste','Enchanteur','Enchanteresse','Évocateur','Sorcière du foyer','Illusionniste','Mage','Sorcier','Sorcière','Nécromancien','Ritualiste','Lanceur de runes','Sauge','Voyant','Oracle','Chaman','Changeforme','Invocateur','Transmutateur','Démoniste','Sorcier','Sorcière','Assistant','Forgeron des mots','Amiral','Archer','Huissier de justice','Garde du corps','Videur','Capitaine','Castellan','Cavalier','Surveillance de la Ville','Détective','Enquêteur','Duelliste','Bourreau','Pompier','Garde','Général','Geôlier','Homme darmes','Maréchal','Mercenaire','Sapeur','Sentinelle','Sergent','Sergent darmes','Éclaireur','Artilleur de siège','Conducteur desclaves','Soldat','Espion','Tacticien','Tortionnaire','Gardien','Chauffage','Abbé','Abbesse','Guerrier','Acolyte','Archevêque','Évêque','Cardinal','Aumônier','Clergé','Clerc','Cultiste','Chef de secte','Devin','Frère','Grand Prêtre','Pape','Inquisiteur','Missionnaire','Moine','Nonne','Paladin','Pardonneur','Prêtre','Prophète','Templier','Batelier','Maître déquipage','Taxi','Wagoner','Caravanier','Garde de caravane','Conducteur de char','Passeur','Premier lieutenant','Timonier','Navigateur','Commissaire de bord','Marin','Capitaine de mer','Charpentier naval','Écouvillon','Aventurier','Mendiant','Chasseur de sang','Chasseur de monstres','Chasseur de primes','Déserteur','Noble en disgrâce','Fouilleur de donjon','Aîné','Retraité','Exil','Explorateur','Ex-criminel','Voyageur lointain','Héros populaire','Imbécile','Joueur','Pilleur de tombes','Chahuteur','Hérétique','Ermite','Femme au foyer','Mari au foyer','Pèlerin','Rebelle','Dissident politique','Réfugié','Esclave en fuite','Squatteurs','Oursin','Vagabond']"
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').file.name"
+          }
+        }
+      ],
+      "version": "1",
+      "template": {
+        "createCommand": true,
+        "parsedTemplate": []
+      }
+    },
+    {
+      "title": "Add New Continent Or Ocean",
+      "name": "CONTINENT",
+      "customClassname": "",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "Continent",
+                "label": "Continent"
+              },
+              {
+                "value": "Ocean",
+                "label": "Ocean"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').where(p => p.type === \"realm\").file.name;"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Event",
+      "name": "EVENT",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Personal','Political','Seasonal','Religious']"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Deity",
+      "name": "GOD",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Gender",
+          "label": "Gender:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Masculin','Féminin','Agenre','Non-Binaire']"
+          }
+        },
+        {
+          "name": "Alignment",
+          "label": "Alignment:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Bon', 'Mauvais', 'Neutre', 'Chaotique', 'Loyal']"
+          }
+        },
+        {
+          "name": "Domains",
+          "label": "Domains:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "multiselect",
+            "source": "fixed",
+            "multi_select_options": [
+              "Animal",
+              "Arcana",
+              "Beauty",
+              "Chaos",
+              "Change",
+              "Conquest",
+              "Corruption",
+              "Creation",
+              "Darkness",
+              "Death",
+              "Destruction",
+              "Dream",
+              "Fate",
+              "Forge",
+              "Freedom",
+              "Glory",
+              "Grave",
+              "Greed",
+              "Growth",
+              "Hatred",
+              "Healing",
+              "Hope",
+              "Illusion",
+              "Invention",
+              "Justice",
+              "Knowledge",
+              "Law",
+              "Lies",
+              "Life",
+              "Light",
+              "Love",
+              "Luck",
+              "Lust",
+              "Magic",
+              "Moon",
+              "Nature",
+              "Order",
+              "Pain",
+              "Patience",
+              "Plants",
+              "Pleasure",
+              "Poison",
+              "Pride",
+              "Protection",
+              "Renewal",
+              "Repose",
+              "Retribution",
+              "Sea",
+              "Secrets",
+              "Shadow",
+              "Strength",
+              "Sun",
+              "Temperance",
+              "Tempest",
+              "Time",
+              "Trade",
+              "Travel",
+              "Trickery",
+              "Vengence",
+              "War",
+              "Wealth",
+              "Wilderness",
+              "Wrath",
+              "Zeal"
+            ],
+            "allowUnknownValues": true
+          }
+        },
+        {
+          "name": "Pantheon",
+          "label": "Pantheon:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "multiselect",
+            "source": "fixed",
+            "multi_select_options": [
+              "Faerûnian",
+              "Netherese",
+              "Olympian"
+            ],
+            "allowUnknownValues": true
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Landmark",
+      "name": "LANDMARK",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Blacksmith','Camp','Guildhall','Inn','Library','Market','Port','Residence','Tavern']"
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').where(p => p.type === \"locale\").file.name"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Locale",
+      "name": "LOCALE",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Cave','City','Desert','Encampment','Forest','Lake','Mountain','Plains','Swamp','Town','Village']"
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').where(p => p.type === \"region\").file.name;"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Session Note",
+      "name": "NOTE",
+      "fields": [
+        {
+          "name": "Title",
+          "label": "Title:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Date",
+          "label": "Date:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "date",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Locations:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "multiselect",
+            "source": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').file.name",
+            "allowUnknownValues": true
+          }
+        },
+        {
+          "name": "Tags",
+          "label": "Tags:    ",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "multiselect",
+            "source": "dataview",
+            "query": "dv.pages('\"Compendium\"').file.etags;",
+            "allowUnknownValues": true
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Object",
+      "name": "OBJECT",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Armor','Jewelry','Magic Item','Weapon','Religious Artifact','Treasure']"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Organization",
+      "name": "ORGANIZATION",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Alignment",
+          "label": "Alignment",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Lawful Good','Neutral Good','Chaotic Good','Lawful Neutral','True Neutral','Chaotic Neutral','Lawful Evil','Neutral Evil','Chatoic Evil']"
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').file.name"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Plane",
+      "name": "PLANE",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Quest",
+      "name": "QUEST",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Title:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Status",
+          "label": "Status:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Abandoned','Completed','Failed','Ongoing','Pending']"
+          }
+        },
+        {
+          "name": "Assignor",
+          "label": "Assigned by:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/NPC\\'s\"').file.name"
+          }
+        },
+        {
+          "name": "Assignee",
+          "label": "Assigned to:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "[\"[ Group Quest ]\", ...dv.pages('\"Compendium/Party/Player Characters\"').file.name]"
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').file.name;"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Realm",
+      "name": "REALM",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').where(p => p.type === \"plane\").file.name;"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Region",
+      "name": "REGION",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Country','General Region','Kingdom','Nation']"
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "dv.pages('\"Compendium/Atlas\"').where(p => p.type === \"continent\" || p.type === \"ocean\").file.name"
+          }
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "title": "Add New Player",
+      "name": "PC",
+      "customClassname": "",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Race",
+          "label": "Race:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Aarakocra','Aasimar','Goblours','Centaure','Changelin','Drakéide','Nain','Elfe','Fairy','Firbolg','Génasi','Gnome','Goblin','Goliath','Grung','Halfelin','Demi-Elfe','Demi-Orc','Hobgoblin','Humain','Kalashtar','Kenku','Kobold','Léonin','Homme-Lézard','Loxodon','Minotaure','Orc','Owlfolk','Satyr','Shifter','Tabaxi','Tieffelin','Tortle','Triton','Vedalken','Verdan','Warforged','Yuan-Ti','Fée','Mort-Vivant','Pixie','Elfe de Crystal','Géant','Inconnu']"
+          }
+        },
+        {
+          "name": "Level",
+          "label": "Level:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "pClass",
+          "label": "Class:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Artificier','Barbare', 'Barde', 'Clerc', 'Druide', 'Guerrier', 'Moine', 'Paladin', 'Rôdeur', 'Roublard', 'Ensorceleur', 'Occultiste', 'Magicien','Animiste','Terraformeur','Cartomancien','Protecteur','Chasseur de Sang']"
+          }
+        },
+        {
+          "name": "subClass",
+          "label": "Sub Class:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Ancestral Guardian', 'Battlerager', 'Berserker', 'Storm Herald', 'Totem Warrior', 'Zealot', 'College of Creation', 'College of Eloquence', 'College of Glamour', 'College of Lore', 'College of Swords', 'College of Valor', 'College of Whispers', 'Arcana Domain', 'Death Domain', 'Forge Domain', 'Grave Domain', 'Knowledge Domain', 'Life Domain', 'Light Domain', 'Nature Domain', 'Order Domain', 'Peace Domain', 'Tempest Domain', 'Trickery Domain', 'Twilight Domain', 'War Domain', 'Circle of Dreams', 'Circle of Spores', 'Circle of Stars', 'Circle of the Land', 'Circle of the Moon', 'Circle of the Shepherd', 'Circle of Wildfire', 'Arcane Archer', 'Battle Master', 'Cavalier', 'Champion', 'Echo Knight', 'Eldritch Knight', 'Psi Warrior', 'Purple Dragon Knight', 'Rune Knight', 'Samurai', 'Drunken Master', 'Four Elements', 'Kensei', 'Long Death', 'Mercy', 'Open Hand', 'Shadow', 'Sun Soul', 'Ancients', 'Conquest', 'Crown', 'Devotion', 'Glory', 'Oathbreaker', 'Redemption', 'Vengeance', 'Watchers', 'Beast Master', 'Fey Wanderer', 'Gloom Stalker', 'Horizon Walker', 'Hunter', 'Monster Slayer', 'Swarmkeeper', 'Arcane Trickster', 'Assassin', 'Inquisitive', 'Mastermind', 'Phantom', 'Scout', 'Soulknife', 'Swashbuckler', 'Thief', 'Aberrant Mind', 'Clockwork Soul', 'Divine Soul', 'Draconic Bloodline', 'Shadow Magic', 'Storm Sorcery', 'Wild Magic', 'Archfey', 'Celestial', 'Fathomless', 'Fiend', 'Genie', 'Great Old One', 'Hexblade', 'Undead', 'Undying', 'Bladesinging', 'Chronurgy', 'Graviturgy', 'Lore Mastery', 'Order of Scribes', 'School of Abjuration', 'School of Conjuration', 'School of Divination', 'School of Enchantment', 'School of Evocation', 'School of Illusion', 'School of Necromancy', 'School of Transmutation', 'War Magic', 'Alchemist', 'Armorer', 'Artillerist', 'Battle Smith']"
+          }
+        },
+        {
+          "name": "Quote",
+          "label": "Quote:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        }
+      ],
+      "version": "1",
+      "template": {
+        "createCommand": true,
+        "parsedTemplate": []
+      }
+    }
+  ]
+}

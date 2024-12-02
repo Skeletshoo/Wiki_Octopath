@@ -1,0 +1,5 @@
+## __Sur [[La Grande Guerre|la Grande Guerre]]__
+Est désignée sous le nom de Grande Guerre le conflit généralisé qui éclata sur le Continent il y a des centaines d'année. Malheureusement, il ne nous reste aucune trace écrite de ce conflit, la plupart des connaissances ayant brulées il y a deux siècles. Cependant, la tradition orale nous rapporte que l'origine de cette guerre était la fuite de deux jeunes gens héritiers de royaumes ennemis. Les deux pays s'accusèrent mutuellement d'enlèvement, et la guerre se propagea à toutes les nations par jeux d'alliance.
+Aujourd'hui, la seule trace durable de cette [[La Grande Guerre|Grande Guerre]] est notre calendrier. Nous comptons les années depuis la fin de cette sombre époque.
+
+*[[Buk'In]], Orc conservateur de la bibliothèque de l'Université de [[Kumro]]*
