@@ -23,7 +23,7 @@ ___
 
 > [!quote|no-t]
 >Profile de Buk'In, le masculin orc PNJ.
-#### marker
+#### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:
 >>```dataview

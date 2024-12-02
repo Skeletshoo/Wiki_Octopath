@@ -60,8 +60,7 @@ ___
 > | :FasVenusMars: Genre | <% gender ? gender : '' %> |
 > | :FasBuildingColumns: Panthéon | <% pantheon ? pantheon : '' %> |
 
-> [!quote|no-t]
->Profile de <% name %>, le <% alignment ? alignment.toLowerCase() : '' %> <% gender ? gender.toLowerCase() : '' %> Divinité.
+Profile de <% name %>, le <% alignment ? alignment.toLowerCase() : '' %> <% gender ? gender.toLowerCase() : '' %> Divinité.
 
 #### LIENS
 > [!column|flex 3]

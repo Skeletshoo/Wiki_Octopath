@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Désert Magique#Désert Magique]]"
 ---
 
-![[banner.jpg|banner]]
+![[7 - BgCuIk2.jpg|banner+tall]]
 ###### Désert Magique
 <span class="sub2">:FasMap: General Region</span>
 ___
@@ -20,8 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Une large zone de magie morte.
+Une large zone de magie morte.
 
 ## __Sur le Désert Magique__
 

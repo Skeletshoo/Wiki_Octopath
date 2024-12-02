@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Lumendor#Lumendor]]"
 ---
 
-![[chateau_dore.webp|banner]]
+![[cite_doree_anato-finnstark-web-pti.jpg|banner+tall]]
 ###### Lumendor
 <span class="sub2">:FasChessRook: Kingdom</span>
 ___
@@ -16,19 +16,13 @@ ___
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasCrown: **Aliases**   |  |
+> | :FasCrown: **Aliases**   |  la Cité des Lumières |
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the kingdom Lumendor.
-> Lumendor est lié aux [[Les Épées de Puissance]]
+Description of the kingdom Lumendor.
+Lumendor est lié aux [[Les Épées de Puissance]]
 
----
-type: légende
-tags:
-headerLink: "[[Sur la Cité des Lumières#Sur la Cité des Lumières]]"
----
 
 ###### __Sur la Cité des Lumières__
 <span class="sub2">:LiFlame:: Légende</span>
@@ -40,7 +34,7 @@ headerLink: "[[Sur la Cité des Lumières#Sur la Cité des Lumières]]"
 > 
 > On s'y baigne dans la lumière, la nourriture y est abondante, on y vit comme dans un rêve.
 > 
-> Certains affirment que [[Lumendor]] a disparu il y a longtemps, d'autres qu'elle n'attend que d'être redécouverte. D'autres encore pensent que les Lumendoriens veillent sur le continent depuis leur citée dorée, en veillant à ce que les peuples ne s'éteignent pas.
+> Certains affirment que [[Lumendor]] a disparu il y a longtemps, d'autres qu'elle n'attend que d'être redécouverte. D'autres encore pensent que les [[Lumendoriens]] veillent sur le continent depuis leur citée dorée, en veillant à ce que les peuples ne s'éteignent pas.
 > 
 > *Contes et Légendes du Continent, par [[Mysty Starcollar]]*
 

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Royaume de Valdosta#Royaume de Valdosta]]"
 ---
 
-![[banner.jpg|banner]]
+![[thomas-stoop-thomasstoop-pathway.jpg|banner+tall]]
 ###### Royaume de Vadolsta
 <span class="sub2"></span>
 ___
@@ -20,7 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
->Description de locale Royaume de Valdosta.
+Ancien Royaume de Valdosta, Très bonne militaire mais a été annexé par le [[Royaume de Ravia]] suite à un long siège. 
 
 
 ### Géographie
@@ -51,7 +51,7 @@ SORT file.name ASC
 
 ### Histoire
 
-TEXTE ICI
+![[LORE_Sur le Saint-Empire de Ravia|full no-title clean]]
 
 > [!note]- ÉVÈNEMENTS
 >```dataview

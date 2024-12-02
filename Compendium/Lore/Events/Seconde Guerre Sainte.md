@@ -10,7 +10,7 @@ headerLink: "[[Seconde Guerre Sainte#Seconde Guerre Sainte]]"
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]][[Saint-Empire de Ravia]]
+>![[armee.jpg|right wm-sm]][[Saint-Empire de Ravia]]
 <span class="clearfix"></span>
 
 #### marker

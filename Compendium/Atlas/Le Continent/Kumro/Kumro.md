@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Kumro#Kumro]]"
 ---
 
-![[banner.jpg|banner]]
+![[philipp-a-urlich-cpncept261.jpg|banner]]
 ###### Kumro
 <span class="sub2">:FasFlag: Country</span>
 ___
@@ -20,8 +20,10 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the country Kumro.
+
+Description of the country Kumro.
+
+
 
 ### Géographie
 TEXTE ICI

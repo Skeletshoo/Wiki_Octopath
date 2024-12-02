@@ -9,8 +9,7 @@ headerLink: "[[La Grande Guerre#La Grande Guerre]]"
 <span class="sub2">:FasBullhorn: Political Event</span>
 ___
 
-> [!quote|no-t]
->![[embed.jpg|right wm-sm]]Description de political event, La Grande Guerre.
+![[grande_guerre_anato-finnstark-web-petit.jpg|right wm-sm]]Description de political event, La Grande Guerre. 
 <span class="clearfix"></span>
 
 ***

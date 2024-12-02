@@ -112,8 +112,7 @@ ___
 > | <% subType %> |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 
-> [!quote|no-t]
-> Description de Personnage Ici
+Description de Personnage Ici
  
 #### LIENS
 > [!column|flex 3]

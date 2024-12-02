@@ -78,7 +78,7 @@ tags:
 headerLink: "[[<% name %>#<% name %>]]"
 ---
 
-![[banner.jpg|banner]]
+![[banner.jpg|banner+tall]]
 ###### <% name %>
 <span class="sub2"><% type ? `${icon} ${type}` : "" %></span>
 ___
@@ -91,7 +91,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
->Description de <% type ? type.toLowerCase() : "locale" %> <% name %>.
+Description de <% type ? type.toLowerCase() : "locale" %> <% name %>.
 
 
 ### Géographie

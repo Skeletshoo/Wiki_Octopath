@@ -80,13 +80,12 @@ tags:
 headerLink: "[[<% name %>#<% name %>]]"
 ---
 
-![[banner.jpg|banner]]
+![[banner.jpg|banner+tall]]
 ###### <% name %>
 <span class="sub2"><% type ? `${icon} ${type}` : '' %></span>
 ___
 
-> [!quote|no-t] RÉSUMER
->Description de <% type ? type.toLowerCase() : 'landmark' %> <% name %>.
+Description de <% type ? type.toLowerCase() : 'landmark' %> <% name %>.
 
 #### marker
 | Inventaire                  | Prix |

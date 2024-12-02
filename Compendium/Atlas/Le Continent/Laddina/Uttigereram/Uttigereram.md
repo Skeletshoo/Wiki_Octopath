@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Uttigereram#Uttigereram]]"
 ---
 
-![[banner.jpg|banner]]
+![[volcan_utti.jpg|banner+tall]]
 ###### Uttigereram
 <span class="sub2">:FasMap: General Region</span>
 ___
@@ -20,8 +20,11 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the general region Uttigereram.
+
+
+Description of the general region Uttigereram.
+
+
 
 ### Géographie
 TEXTE ICI
@@ -41,7 +44,7 @@ TEXTE ICI
 >
 > > [!success]- **Nom**
 > > Description
-
+>
 >
 >> [!example]- Lieux - Liste
 >>```dataview

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Khantevalac#Khantevalac]]"
 ---
 
-![[banner.jpg|banner]]
+![[032 - Mf0rmy6.jpg|banner+tall]]
 ###### Khantevalac
 <span class="sub2">:FasCity: City</span>
 ___
@@ -20,7 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
->Dernière Cité des Géants.
+Dernière Cité des Géants.
 
 
 ### Géographie
@@ -43,6 +43,8 @@ TEXTE ICI
 >
 > > [!success]- **Nom**
 > > Description
+
+
 > [!example]- LIEUX - Liste
 >```dataview
 LIST WITHOUT ID headerLink

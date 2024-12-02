@@ -60,9 +60,7 @@ headerLink: "[[<% name %>#<% name %>]]"
 <span class="sub2"><% type ? `${icon} ${type}` : '' %></span>
 ___
 
-> [!quote|no-t]
->![[embed.jpg|right wm-sm]]Description of the  <% type ? type.toLowerCase() : 'object' %>, <% name %>.
-<span class="clearfix"></span>
+![[embed.jpg|right wm-sm]]Description of the  <% type ? type.toLowerCase() : 'object' %>, <% name %>.
 
 #### LIENS
 > [!column|flex 3]

@@ -55,8 +55,7 @@ headerLink: "[[<% name %>#<% name %>]]"
 <span class="sub2"><% sub ? sub : '' %></span>
 ___
 
-> [!quote|no-t]
->![[quest.png|right wm-sm]] Description de quête ici...
+![[quest.png|right wm-sm]] Description de quête ici...
 
 #### LIENS
 > [!column|flex 3]

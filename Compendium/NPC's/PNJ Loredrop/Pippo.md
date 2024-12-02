@@ -26,7 +26,7 @@ ___
 >Un aventurier qui s'est perdu et est décédé plusieurs fois.
 
 
-#### marker
+#### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:
 >>```dataview
@@ -38,5 +38,4 @@ ___
 >>LIST WITHOUT ID headerLink
 >>FROM "Session Notes" AND [[Pippo]]
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-![[Pippo le Perdu]]
+![[Pippo le Perdu|full no-title clean]]

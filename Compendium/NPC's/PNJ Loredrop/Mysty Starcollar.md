@@ -23,7 +23,7 @@ ___
 
 > [!quote|no-t]
 >Profile de Mysty Starcollar, le féminin humaine PNJ.
-#### marker
+#### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:
 >>```dataview

@@ -114,8 +114,7 @@ ___
 > |  :FasUserGroup: Race |  `=this.race`|
 > |  :LiSwords: Groupe |  `=this.groupe`|
 
-> [!quote|no-t]
-> Description de Personnage Ici
+Description de Personnage Ici
 
 
 #### LIENS

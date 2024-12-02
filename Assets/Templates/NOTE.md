@@ -66,8 +66,7 @@ headerLink: "[[<% name %>#<% title %>|<% name %>]]"
 <span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: `= this.file.etags`</span>
 ___
 
-> [!quote|no-t] RÉSUMÉ
->Recap of the session's events here.
+Recap of the session's events here.
 
 #### LIENS
 

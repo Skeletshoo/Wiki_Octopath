@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Terres Oubliées#Terres Oubliées]]"
 ---
 
-![[banner.jpg|banner]]
+![[8 - Znqnh6a.jpg|banner+tall]]
 ###### Terres Oubliées
 <span class="sub2">:FasMap: General Region</span>
 ___
@@ -20,8 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the general region Terres Oubliées.
+Description of the general region Terres Oubliées.
 
 ### Géographie
 TEXTE ICI

@@ -15,11 +15,9 @@ ___
 > | :FasCircleQuestion: Texte   | Texte |
 > |  :FasUserGroup: Texte   | Texte |
 
-> [!quote|no-t]
-> Texte
+Yaaaaaaay ils envoient des lettreeeeees!!!! Au moisn certains, ils ne sont pas tous aussi sympathiques :(((
  
 
 ***
-> [!quote|no-t]
-> ![[embed.jpg|right wm-sm]]
+![[AirElementalTCG.webp|right wm-sm]]
 On sait que y a la [[Sur la Messagerie Aérienne|messagerie Aérienne]], et y a des élémentaires de feu qui habitent dans le volcan [[Uttigereram]] :]

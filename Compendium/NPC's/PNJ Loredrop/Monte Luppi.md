@@ -25,7 +25,7 @@ ___
 > [!quote|no-t]
 >Un Conteur
 >[[L'Arrogance de Miracolo,  par Monte Luppi]]
-#### Supplémentaire
+#### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:
 >>```dataview

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Landes d'Agartha#Landes d'Agartha]]"
 ---
 
-![[banner.jpg|banner]]
+![[landes_agartha.jpg|banner+tall]]
 ###### Landes d'Agartha
 <span class="sub2">:FasMap: General Region</span>
 ___
@@ -16,12 +16,11 @@ ___
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasCrown: **Aliases**   | Le Creuset des Damnés|
+> | :FasCrown: **Aliases**   | Le Creuset des Damnés |
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the general region Landes d'Agartha.
+Un endroit désolé. On dit que les condamnés à mort y sont envoyés. 
 
 ## __[[Sur les Landes d'Agartha]]__
 A l'extrême sud du continent, par-delà une chaîne de montagne infranchissable, se trouvent les Landes d'Agartha. Un désert de cendre, désolé, où la survie relève plus de la chance que de la compétence.

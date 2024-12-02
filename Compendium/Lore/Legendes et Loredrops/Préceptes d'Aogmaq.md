@@ -9,7 +9,7 @@ headerLink: "[[Préceptes d'Aogmaq#Préceptes d'Aogmaq]]"
 ___
 
 > [!quote|no-t]
-> ![[embed.jpg|right wm-sm]]__**᚛ᚚᚏᚓᚉᚓᚚᚈᚓᚄ ᚇᚐᚑᚇᚆᚐᚅ᚜**__
+> __**᚛ᚚᚏᚓᚉᚓᚚᚈᚓᚄ ᚇᚐᚑᚇᚆᚐᚅ᚜**__
 > 
 > ᚛ᚚᚏᚓᚄᚓᚏᚃᚓ ᚂᚓ ᚚᚐᚄᚄᚓ ᚓᚈ ᚌᚐᚏᚇᚓᚂᚓ ᚓᚅ ᚋᚓᚋᚑᚔᚏᚓ ᚚᚑᚒᚏ ᚂᚓᚈᚓᚏᚅᚔᚈᚓ ᚊᚒᚓ ᚉᚆᚐᚊᚒᚓ ᚄᚑᚒᚃᚓᚅᚔᚏ ᚉᚆᚐᚊᚒᚓ ᚃᚏᚐᚌᚋᚓᚅᚈ ᚇᚓ ᚉᚑᚅᚅᚐᚔᚄᚄᚐᚅᚉᚓ ᚇᚓᚃᚔᚓᚅᚅᚓ ᚚᚑᚒᚏ ᚈᚑᚔ ᚒᚅ ᚈᚏᚓᚄᚑᚏ ᚄᚐᚉᚏᚓ ᚚᚏᚓᚅᚇᚄ ᚄᚑᚔᚅ ᚇᚓᚄ ᚏᚓᚂᚔᚊᚒᚓᚄ ᚓᚈ ᚇᚓᚄ ᚓᚉᚏᚔᚈᚄ ᚉᚐᚏ ᚔᚂᚄ ᚄᚑᚅᚈ ᚂᚓ ᚂᚔᚓᚅ ᚓᚅᚈᚏᚓ ᚂᚓᚄ ᚈᚓᚋᚚᚄ ᚐᚅᚉᚔᚓᚅᚄ ᚓᚈ ᚉᚓᚒᚙ ᚐ ᚃᚓᚅᚔᚏ ᚓᚈ ᚄᚐᚅᚄ ᚓᚒᚙ ᚂᚓᚙᚔᚄᚈᚓᚅᚉᚓ ᚅᚓ ᚄᚓᚏᚐᚔᚈ ᚊᚒᚒᚅ ᚄᚑᚅᚌᚓ ᚓᚚᚆᚓᚋᚓᚏᚓ᚜
 > 
@@ -22,7 +22,7 @@ ___
 > _Texte retrouvé sur une stèle de la [[Grande Forêt des Fées]], retranscrite dans le Manuel des [[La Guilde des Aventuriers|Aventuriers]], avec une note mentionnant 10 000 pièces d'or à qui déchiffrera cette notation_
 
 
-> [!note] Traduction par Liz et Aimé
+> [!note|subt] Traduction par Liz et Aimé *(Possède quelques erreurs)*
 > *Préserve le passé et garde le en mémoire pour l'éternité* 
 > *Que chaque souvenir chaque fragment de connaissance* 
 > *Devienne pour toi un trésor sacré* 

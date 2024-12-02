@@ -7,13 +7,12 @@ tags:
 headerLink: "[[Les Labyrinthes#Les Labyrinthes]]"
 ---
 
-![[banner.jpg|banner]]
+![[Twilight_Arbor_(explorable)_loading_screen.jpg|banner+tall]]
 ###### Les Labyrinthes
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___
 
-> [!quote|no-t]
->Quick description of the continent Les Labyrinthes.
+Quick description of the continent Les Labyrinthes.
 
 ***
 ## __Sur les Labyrinthes__
@@ -21,7 +20,7 @@ ___
 Les Labyrinthes sont des structures semblant extérieures à notre réalité. Ils se composent de dédales sombres, dans lesquels se trouvent monstres, pièges et trésors.
 Cependant, il semblerai que cet endroit servi jadis à d'autres desseins. En effet, si vous survivez assez longtemps dans un Labyrinthe, peut-être tomberez-vous sur une maison, ou un jardin. Petit havre de paix, ces endroits servants aujourd'hui de relais aux aventuriers tendent à nous informer qu'une certaine société vécu sans doute ici il y a longtemps.
 
-Quoi que fût cette dimension, il semblerait qu'elle eut été coupé de la notre à une certaine époque et a été redécouverte il y a environ 3 siècles, lorsque des portes tout à fait ordinaire se mirent à s'ouvrir sur le Labyrinthe. Depuis, des aventuriers se précipitent à l'intérieur dans l'espoir d'obtenir richesse ou renommée, mais ils reviennent souvent la queue entre les jambes après une déconvenue avec un monstre local.
+Quoi que fût cette dimension, il semblerait qu'elle eut été coupé de la notre à une certaine époque et a été redécouverte il y a environ 3 siècles, lorsque des [[Portes des Labyrinthes|portes]] tout à fait ordinaire se mirent à s'ouvrir sur le Labyrinthe. Depuis, des aventuriers se précipitent à l'intérieur dans l'espoir d'obtenir richesse ou renommée, mais ils reviennent souvent la queue entre les jambes après une déconvenue avec un monstre local.
 
 Encore aujourd'hui, les Labyrinthes sont des endroits méconnu, à peine cartographiés, que nous conseillons à tout aventurier, même chevronné, d'éviter à tout prix.
 

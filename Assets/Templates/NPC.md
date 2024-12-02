@@ -86,8 +86,9 @@ ___
 > | :FasUser: Race | <% race ? race : '' %> |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Profile de <% name %>, le <% `${gender ? gender.toLowerCase() : ''}${race ? (gender ? ' ' : '') + race.toLowerCase() : ''}` %> PNJ.
+Profile de <% name %>, le <% `${gender ? gender.toLowerCase() : ''}${race ? (gender ? ' ' : '') + race.toLowerCase() : ''}` %> PNJ.
+
+
 #### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:

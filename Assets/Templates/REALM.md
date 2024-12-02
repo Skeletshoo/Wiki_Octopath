@@ -48,7 +48,7 @@ tags:
 headerLink: "[[<% name %>#<% name %>]]"
 ---
 
-![[banner.jpg|banner]]
+![[banner.jpg|banner+tall]]
 ###### <% name %>
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___
@@ -61,8 +61,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SUMMARY
->Description of du royaume <% name %>.
+Description of du royaume <% name %>.
 
 ### Géographie
 TEXTE ICI

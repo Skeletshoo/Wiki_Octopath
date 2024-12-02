@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Miracolo#Miracolo]]"
 ---
 
-![[banner.jpg|banner]]
+![[federico-cimini-sky-palace-color.jpg|banner+tall]]
 ###### Miracolo
 <span class="sub2">:FasChessRook: Kingdom</span>
 ___
@@ -20,11 +20,10 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the kingdom Miracolo.
+Un royaume disparu il y a très longtemps.
 
 <br><br><br>
-![[L'Arrogance de Miracolo,  par Monte Luppi]]
+![[L'Arrogance de Miracolo,  par Monte Luppi|full no-title]]
 
 ### Géographie
 TEXTE ICI

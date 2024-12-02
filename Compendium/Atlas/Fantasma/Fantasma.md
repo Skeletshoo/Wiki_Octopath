@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Fantasma#Fantasma]]"
 ---
 
-![[banner.jpg|banner]]
+![[zeid-salfiti-asset.jpg|banner+tall]]
 ###### Fantasma
 <span class="sub2">:FasMap: General Region</span>
 ___
@@ -20,8 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the general region Fantasma.
+Un endroit pleins de fantômes et morts-vivants.
 
 ### Géographie
 TEXTE ICI
@@ -125,7 +124,7 @@ SORT file.ctime DESC
 ```
 
 ### Références
-![[Pippo le Perdu]]
+![[Pippo le Perdu|full no-title clean]]
 
 
 

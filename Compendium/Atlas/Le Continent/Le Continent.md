@@ -7,16 +7,16 @@ tags:
 headerLink: "[[Le Continent#Le Continent]]"
 ---
 
-![[banner.jpg|banner]]
+![[connor-2d_rice-share.jpg|banner+tall]]
 ###### Le Continent
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___
 
-> [!quote|no-t]
->Quick description of the continent Le Continent.
 
-![[Sur la gestion des Pays]]
+Le Continent.
 
+
+![[Sur la gestion des Pays|full no-title clean]]
 
 > [!column|flex 2]
 > > [!hint]-  PNJs

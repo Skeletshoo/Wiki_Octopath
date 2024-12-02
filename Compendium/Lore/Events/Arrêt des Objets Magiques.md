@@ -6,11 +6,11 @@ headerLink: "[[Arrêt des Objets Magiques#Arrêt des Objets Magiques]]"
 ---
 
 ###### Arrêt des Objets Magiques
-<span class="sub2">:FasBullhorn: Political Event</span>
+<span class="sub2">:FasBullhorn: Magical Event</span>
 ___
 
 > [!quote|no-t]
->![[embed.jpg|right wm-sm]]Il y a 200 ans, on a arrêté de pouvoir faire des objets magiques.
+>![[arret_objets_magiques.jpg|right wm-sm]]Il y a 200 ans, on a arrêté de pouvoir faire des objets magiques.
 <span class="clearfix"></span>
 
 #### marker

@@ -1,7 +1,7 @@
 ---
 cssClasses: index
 ---
-![[compendium.jpg|banner]]
+![[compendium.jpg|banner p+tc]]
 ###### <span class="head">Journal de Campagne</span> 
  
 ```dataviewjs

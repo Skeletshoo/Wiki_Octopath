@@ -11,9 +11,9 @@ headerLink: "[[La Guilde des Aventuriers#La Guilde des Aventuriers]]"
 <span class="sub2">:FasSitemap: Organization</span>
 ___
 
-> [!quote|no-t]
->![[embed.jpg|right wm-sm]]Texte
->
+
+![[Spoils-of-Adventure-by-Zezhou-Chen.avif|right wm-sm]]
+Texte
 
 ## __Sur le Statut des Aventuriers__
 

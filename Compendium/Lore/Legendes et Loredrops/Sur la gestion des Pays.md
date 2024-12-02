@@ -9,7 +9,7 @@ headerLink: "[[LORE_Sur la gestion des Pays#Sur la gestion des Pays]]"
 ___
 
 > [!quote|no-t]
-> ![[embed.jpg|right wm-sm]]Bien que les territoires du Continent soient tous rattachés à un pays qui les dirigent, la taille dantesque de ces territoires fait que seules les grandes citées et les points important obéissent précisément à la loi du pays en question.
+> ![[darek-zabrocki-dsad2.jpg|right wm-sm]]Bien que les territoires du Continent soient tous rattachés à un pays qui les dirigent, la taille dantesque de ces territoires fait que seules les grandes citées et les points important obéissent précisément à la loi du pays en question.
 > 
 > Les plus petites villes et les villages possèdent généralement leurs propres lois, et leur propres pouvoirs de gestion. Tous les dirigeants adhèrent à cet accord tacite.
 > 

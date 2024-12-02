@@ -60,8 +60,7 @@ headerLink: "[[<% name %>#<% name %>]]"
 <span class="sub2"><% type ? `${icon} ${type} Event` : '' %></span>
 ___
 
-> [!quote|no-t]
->![[embed.jpg|right wm-sm]]Description de <% type ? type.toLowerCase() + ' event' : 'event' %>, <% name %>.
+![[embed.jpg|right wm-sm]]Description de <% type ? type.toLowerCase() + ' event' : 'event' %>, <% name %>.
 <span class="clearfix"></span>
 
 #### LIENS

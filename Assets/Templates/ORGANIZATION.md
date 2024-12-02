@@ -37,8 +37,7 @@ headerLink: "[[<% name %>#<% name %>]]"
 <span class="sub2">:FasSitemap: Organization</span>
 ___
 
-> [!quote|no-t]
->![[embed.jpg|right wm-sm]]Profile de <% name %>, une <% alignment ? alignment.toLowerCase() : 'unknown' %> organisation.
+![[embed.jpg|right wm-sm]]Profile de <% name %>, une <% alignment ? alignment.toLowerCase() : 'unknown' %> organisation.
 
 #### LIENS
 > [!column|flex 3]

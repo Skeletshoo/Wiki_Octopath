@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Ryby#Ryby]]"
 ---
 
-![[banner.jpg|banner]]
+![[sina-abbasnia-castle-lq.jpg|banner+tall]]
 ###### Ryby
 <span class="sub2">:FasFlag: Country</span>
 ___
@@ -20,8 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the country Ryby.
+Un pays très apprécié par les aventuriers.
 
 ### Géographie
 TEXTE ICI
@@ -60,8 +59,8 @@ SORT file.ctime DESC
 ### Figures Importantes
 > [!column|flex 3]
 >
-> > [!tip]- **Nom**
-> > Description
+> > [!tip]- **[[La Guilde des Aventuriers]]**
+> > Pas une personne en elle-même, mais une organisation influente dont le modèle a été repris dans d'autres pays pour son efficacité. 
 >
 > > [!faq]- **Nom**
 > > Description
@@ -119,6 +118,7 @@ SORT file.ctime DESC
 
 ### Images
 ```image-layout-masonry-3
+
 
 
 

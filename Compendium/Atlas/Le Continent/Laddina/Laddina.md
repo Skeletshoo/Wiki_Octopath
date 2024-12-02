@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Laddina#Laddina]]"
 ---
 
-![[banner.jpg|banner]]
+![[anna-razvadovskaya-mountain-snow-art-v005-mini.jpg|banner+tall]]
 ###### Laddina
 <span class="sub2">:FasFlag: Country</span>
 ___
@@ -20,8 +20,11 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the country Laddina.
+
+
+Description of the country Laddina.
+
+
 
 ### Géographie
 TEXTE ICI
@@ -29,8 +32,8 @@ TEXTE ICI
 ##### Lieux Annexes
 > [!column|flex 3]
 >
-> > [!tip]- **Nom**
-> > Description
+> > [!tip]- **Volcan [[Uttigereram]]**
+> > Un immense volcan, où habite notamment la dernière société de [[Les Géants|Géants]].
 >
 > > [!faq]- **Nom**
 > > Description
@@ -40,7 +43,7 @@ TEXTE ICI
 >
 > > [!success]- **Nom**
 > > Description
-
+>
 >
 >> [!example]- Lieux - Liste
 >>```dataview

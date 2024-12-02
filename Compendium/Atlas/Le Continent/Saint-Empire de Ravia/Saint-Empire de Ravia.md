@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Saint-Empire de Ravia#Saint-Empire de Ravia]]"
 ---
 
-![[banner.jpg|banner]]
+![[borisut-chamnan-artstation-1.jpg|banner+tall]]
 ###### Saint Empire de Ravia
 <span class="sub2">:FasChessRook: Kingdom</span>
 ___
@@ -20,8 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the kingdom Saint Empire de Ravia.
+Description of the kingdom Saint Empire de Ravia.
 
 ### Géographie
 TEXTE ICI

@@ -13,33 +13,6 @@ genre
 >![[embed.jpg|left htiny]] (img est un mini) mmm c'est un idiot
 > Nom 
 
-> [!timeline|t-l] **Title** _Subtitle_
-> Left aligned timeline piece
-
-> [!timeline|t-r t-2] **Title** *Subtitle*
-> Right aligned timeline piece
-
-> [!timeline|t-r t-4] **Title** *Subtitle*
-> Spaced timeline piece
-
-> [!caption|left] Floats to the left
-> ![[portrait.jpg]]
-> Caption text here
-
-> [!caption|right] Floats to the right
-> ![[Image.png]]
-> Caption text here
-
-> [!infoboxes|bg-c-purple subt] Nom *nom*
->![[embed.jpg|left htiny]] (img est un mini) mmm c'est un idiot
-> Nom 
-> nom
-> nomn
-> nom
-
-> [!kith|romantic] **Nom** _romantic_
-> ![[embed.jpg|left htiny]] (img est un mini) mmm c'est un idiot
-> Family / Friend / Antagonist / Romantic 
 
 # Prédictions
 Groupe :
@@ -72,3 +45,24 @@ Pays :
 - Les Épées de Puissance ne sont pas liées à Lumendor. Ou à Val.
 
 Techniquement y a plus de guess et plus d’infos, mais c’est un peu plus dur à résumer donc je les ai pas mis.
+
+
+Tests de Callouts
+
+
+> [!timeline|t-l] **Title** _Subtitle_
+> Left aligned timeline piece
+
+> [!timeline|t-r t-1] **Title** *Subtitle*
+> Right aligned timeline piece
+
+> [!caption|left] Floats to the left, peut renplacer left par right
+> ![[portrait.jpg]]
+> Caption text here
+
+> [!infoboxes|bg-c-purple subt] Nom *nom*
+>![[embed.jpg|left htiny]] (img est un mini) mmm c'est un idiot
+> Nom 
+> nom
+> nomn
+> nom

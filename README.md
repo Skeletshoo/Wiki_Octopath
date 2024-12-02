@@ -1,23 +1,20 @@
 # Tasha's Notes of Everything - A D&D Obsidian Vault
 
-Welcome to Tasha's Notes of Everything! This project is an Obsidian vault specifically designed for Dungeons and Dragons (D&D) note-taking. Geared towards players this vault is here to help you organize, plan, and enrich your D&D experience.
-Features
+1. Créez des nouvelles pages à partir de l'Index et de ses boutons. Sauf, si c'est pour écrire juste un bout d'infos (ex: dans le dossier legendes et loredrops), car je me suis pas penché sur "comment faire mes propres templates+boutons" et g du travail. 
 
-- Structured Organization: The vault is organized into categories such as NPCs, locations, lore, and more, making it easy to find and manage your notes.
-- The Automated Note Wizard: simplifies note-taking by guiding users through setup, automatically creating notes, and populating them with templates.
-- Session Logs: Keep track of each session's events, decisions made by players, and outcomes to maintain continuity in your campaign.
+Pour les images de lieux, si vous en voulez +, j'ai un drive où y en a tt pleins! (J'ai décidé de ne pas charger ce Vault avec 800mo d'images)
+https://drive.google.com/drive/folders/1sKsD1FYQFGWEU4jlGPZRai1rx1SrLzHS?usp=sharing
+(ou bien là : https://www.reddit.com/r/Guildwars2/comments/mmy0uc/environmental_concept_art_collection_1000_that/)
 
-Tasha's Notes of Everything is inspired by the creativity and passion of the Dungeons and Dragons community.
+Et aussi, les art de MTG sont très beaux et marchent bien :]c
+https://www.artofmtg.com/mtg-set/bloomburrow/
 
-Happy adventuring, and may your rolls always be natural 20s! 🎲✨
-
-## Preview:
-[![Video Demonstration](https://img.youtube.com/vi/4pe6QYOFPL8/maxresdefault.jpg)](https://www.youtube.com/watch?v=4pe6QYOFPL8)
-
-
+## Docu supplémentaires
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Embed+Adjustments
 ## Downloads:
 * Pre-Setup Vault: [Download Now](https://github.com/kevinkickback/Tashas-Notes-of-Everything/releases/download/v2.3.2/TashasNotesofEverything.v2.3.2.rar)
-
 
 ## Install:
 1. Download or clone the repository.

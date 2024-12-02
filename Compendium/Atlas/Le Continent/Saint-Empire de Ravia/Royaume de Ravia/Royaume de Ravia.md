@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Royaume de Ravia#Royaume de Ravia]]"
 ---
 
-![[banner.jpg|banner]]
+![[royaume_ravia_weijia-yu-xuese.jpg|banner+tall]]
 ###### Royaume de Ravia
 <span class="sub2"></span>
 ___
@@ -20,7 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
->Description de locale Royaume de Ravia.
+Aujourd'hui, ce royaume est devenu un empire.
 
 
 ### Géographie
@@ -51,7 +51,7 @@ SORT file.name ASC
 
 ### Histoire
 
-TEXTE ICI
+![[LORE_Sur le Saint-Empire de Ravia|full no-title clean]]
 
 > [!note]- ÉVÈNEMENTS
 >```dataview

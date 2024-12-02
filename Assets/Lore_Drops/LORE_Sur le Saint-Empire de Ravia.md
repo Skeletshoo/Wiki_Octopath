@@ -8,8 +8,3 @@ Bien que [[Royaume de Valdosta|Valdosta]] était supérieur militairement, le so
 
 *Paragraphe extrait de l'__Atlas du Continent, recueil de cartes et de légendes__*
 
-***
-
-![[Virgil Ardere]]
-![[Vyctor Cuceritor]]
-![[Sa Sainteté l'Aurore Céleste]]

@@ -20,8 +20,7 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-> [!quote|no-t] SOMMAIRE
->Description of the general region Grande Forêt des Fées.
+Description of the general region Grande Forêt des Fées.
 
 ### Géographie
 TEXTE ICI
