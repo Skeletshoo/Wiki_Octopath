@@ -6,7 +6,7 @@ tags:
   - job/religieux
 headerLink: "[[Sa Sainteté l'Aurore Céleste#Sa Sainteté l'Aurore Céleste]]"
 ---
-###### Sa Sainteté l'Aurore Céleste
+###### Sa Sainteté de l'Aurore Céleste
 <span class="sub2">:FasMapLocationDot: [[Saint-Empire de Ravia#Saint Empire de Ravia]] </span>
 ___
 
