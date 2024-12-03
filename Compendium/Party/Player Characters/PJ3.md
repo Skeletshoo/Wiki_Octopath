@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Jour_3.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -25,7 +25,12 @@ ___
 > |  :FasUserGroup: Race |  `=this.race`|
 
 > [!quote|no-t]
-> Texte
+> Rapport des éclaireurs : Un homme a été aperçu rôdant dans les villages alentours. Il porte une tenue avec un blason que nous n'avons pas reconnu. Les cheveux blancs, il a une épée à la ceinture. Nous avons du mal à suivre sa trace car il semble dormir assez peu.
+
+> [!note] Théories
+> - Silhouette + normale, Grosse épée.
+> - 
+> - Pippo
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]
@@ -46,7 +51,8 @@ ___
 >>LIST WITHOUT ID headerLink
 >>FROM "Compendium/NPC's" AND [[PJ3]]
 >>SORT file.ctime DESC
->>
+
+![[Jour_3.png]]
 ```image-layout-masonry-3
 
 ```
