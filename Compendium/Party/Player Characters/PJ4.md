@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Jour_4.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -25,7 +25,15 @@ ___
 > |  :FasUserGroup: Race |  `=this.race`|
 
 > [!quote|no-t]
-> Texte
+> Rapport des éclaireurs : Un individu a été repéré dans un petit village rural. Le visage partiellement dissimulé, il porte une très grande épée, mais a l'air particulièrement craintif. C'est à se demander comment il est arrivé jusqu'ici.
+
+> [!note] Théories
+> - Grosse épée -> Guerrier championnnn
+> - Pourrait être un nain ou un gnome ? - Théorie de Maxime
+> - Pourrait être Maxime, pourrait être Hubert
+> - Pippo
+
+![[Jour_4.png]]
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]
