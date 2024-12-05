@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Jour_5.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -25,7 +25,11 @@ ___
 > |  :FasUserGroup: Race |  `=this.race`|
 
 > [!quote|no-t]
-> Texte
+> Rapport des éclaireurs : Un autre homme en armure a été repéré. Décidément, on se demande si c'est une nouvelle mode à l'étranger. Il semble communiquer pacifiquement. Nous n'avons pas reconnu le style d'armure qu'il porte, c'est probablement un aventurier indépendant. Il ne prend même pas le temps d'installer un campement le soir, je ne sais pas comment il fait...
+
+> [!note] Théories
+> - Guerrier Champion
+> - Pippo
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]

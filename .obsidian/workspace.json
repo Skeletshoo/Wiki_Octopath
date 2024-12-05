@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Party/Prédictions et Notesde Groupes.md",
-                "mode": "preview",
+                "file": "Compendium/Party/Player Characters/PJ5.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prédictions et Notesde Groupes"
+              "title": "PJ5"
             }
           }
         ]
@@ -165,6 +165,9 @@
   },
   "active": "310756f362a00806",
   "lastOpenFiles": [
+    "Compendium/Party/Player Characters/PJ4.md",
+    "Compendium/Party/Player Characters/PJ5.md",
+    "Compendium/Party/Prédictions et Notesde Groupes.md",
     "INDEX.md",
     "Compendium/Party/Player Characters/PJ1.md",
     "Compendium/Party/Player Characters/PJ2.md",
@@ -194,9 +197,6 @@
     "Assets/Templates/LANDMARK.md",
     "Assets/Templates/GOD.md",
     "Assets/Templates/EVENT.md",
-    "Assets/Templates/CONTINENT.md",
-    "Compendium/NPC's/PNJ Loredrop/Monte Luppi.md",
-    "Compendium/NPC's/PNJ Loredrop/Pamos.md",
     "Assets/Images/Lore/Organisation/Spoils-of-Adventure-by-Zezhou-Chen.avif",
     "Assets/Images/Lore/Event/GW2_Concept_RivenEarth.webp",
     "Assets/Images/Lore/Event/218551-fantasy_art-concept_art-Guild_Wars-video_games-1.jpg",
