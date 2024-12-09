@@ -45,7 +45,8 @@ Rapport des Éclaireurs : Un humain a été apperçu approchant des terres. Il n
 >>LIST WITHOUT ID headerLink
 >>FROM "Compendium/NPC's" AND [[PJ7]]
 >>SORT file.ctime DESC
->>
+
+![[Jour_7.png]]
 ```image-layout-masonry-3
 
 ```

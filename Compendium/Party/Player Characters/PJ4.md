@@ -33,7 +33,7 @@ ___
 > - Pourrait être Maxime, pourrait être Hubert
 > - Pippo
 
-![[Jour_4.png]]
+
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]
@@ -54,7 +54,8 @@ ___
 >>LIST WITHOUT ID headerLink
 >>FROM "Compendium/NPC's" AND [[PJ4]]
 >>SORT file.ctime DESC
->>
+
+![[Jour_4.png]]
 ```image-layout-masonry-3
 
 ```

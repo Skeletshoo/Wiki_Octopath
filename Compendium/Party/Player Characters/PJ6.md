@@ -46,7 +46,8 @@ ___
 >>LIST WITHOUT ID headerLink
 >>FROM "Compendium/NPC's" AND [[PJ6]]
 >>SORT file.ctime DESC
->>
+
+![[Jour_6.png]]
 ```image-layout-masonry-3
 
 ```
