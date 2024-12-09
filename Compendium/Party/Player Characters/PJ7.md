@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Jour_7.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -24,8 +24,7 @@ ___
 > | :FasCircleQuestion: Sub Class |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 
-> [!quote|no-t]
-> Texte
+Rapport des Éclaireurs : Un humain a été apperçu approchant des terres. Il n'a pas causé de problèmes mais semble églament parler tout seul. Je vous assure, cette fois c'en est trop, demain je pose ma démission, on a pas idée de surveiller des énergumènes pareils.
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]
