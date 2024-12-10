@@ -24,7 +24,12 @@ ___
 > | :FasCircleQuestion: Sub Class |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 
-Rapport des Éclaireurs : Un humain a été apperçu approchant des terres. Il n'a pas causé de problèmes mais semble églament parler tout seul. Je vous assure, cette fois c'en est trop, demain je pose ma démission, on a pas idée de surveiller des énergumènes pareils.
+> [!quote|no-t]
+> Rapport des Éclaireurs : Un humain a été apperçu approchant des terres. Il n'a pas causé de problèmes mais semble églament parler tout seul. Je vous assure, cette fois c'en est trop, demain je pose ma démission, on a pas idée de surveiller des énergumènes pareils.
+
+> [!note] Théories
+> - Guerrier Champion
+> - Pippo
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]

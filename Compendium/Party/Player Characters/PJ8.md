@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[Jour_8.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -25,8 +25,13 @@ ___
 > |  :FasUserGroup: Race |  `=this.race`|
 
 > [!quote|no-t]
-> Texte
- 
+> Rapport des Éclaireurs : Bonjour ! C'est mon premier jour à ce post, et je comptes bien faire de mon mieux ! Mon prédécesseur a démissionné suite à un burn-out, mais ça ne me fais pas peur ! Je vois déjà un individu étrange s'approcher des frontières. A quoi ressemble-t-il ? Il est humanoïde et a... Une tête de renard ?! Mon dieu, et il vient de la direction d'Elkav ! Est-ce que ce serait un démon ? Nooooooon, maman, je ne veux pas mourir si j- *le reste du texte est illisible, comme s'il avait été écrit en tremblant*
+
+> [!note] Théories
+> - Chasseur de démons ?
+> - Guerrier Champion
+> - Pippo
+
 #### Information Supplémentaires et Liens
 > [!column|flex 3]
 >> [!info]- QUÊTES/STORYLINES:
@@ -46,7 +51,8 @@ ___
 >>LIST WITHOUT ID headerLink
 >>FROM "Compendium/NPC's" AND [[PJTUTUR]]
 >>SORT file.ctime DESC
->>
+
+![[Jour_8.png]]
 ```image-layout-masonry-3
 
 ```

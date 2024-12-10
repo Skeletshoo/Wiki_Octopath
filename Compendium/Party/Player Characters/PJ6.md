@@ -26,6 +26,10 @@ ___
 
 > [!quote|no-t]
 > Rapport des Éclaireurs : Une humanoïde a été repérée entrant sur le territoire. Elle ne ressemble à aucune race connue sur le continent. Elle possède des traits animaux, ce qui nous rappelle un peu les Connils et les Strix vivant dans la Grande Forêt, mais nous n'en savons pas plus pour l'instant. Elle est accompagnée d'une oie, qui semble apprivoisée.
+
+> [!note] Théories
+> - Guerrier Champion
+> - Pippo
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]
