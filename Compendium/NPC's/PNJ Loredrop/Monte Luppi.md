@@ -22,9 +22,8 @@ ___
 > | :FasUser: Race | ? |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Un Conteur
->[[L'Arrogance de Miracolo,  par Monte Luppi]]
+Un Conteur
+[[L'Arrogance de Miracolo,  par Monte Luppi]]
 #### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:

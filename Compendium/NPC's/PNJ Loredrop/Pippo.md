@@ -22,8 +22,7 @@ ___
 > | :FasUser: Race | ? |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Un aventurier qui s'est perdu et est décédé plusieurs fois.
+Un aventurier qui s'est perdu et est décédé plusieurs fois.
 
 
 #### LIENS

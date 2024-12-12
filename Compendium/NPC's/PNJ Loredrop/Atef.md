@@ -21,8 +21,7 @@ ___
 > | :FasUser: Race | ? |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Profile de Atef, le masculin ? PNJ.
+Profile de Atef, le masculin ? PNJ.
 #### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:

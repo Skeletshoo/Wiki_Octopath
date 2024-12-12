@@ -20,8 +20,7 @@ ___
 > | :FasUser: Race |  |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Ancien dirigeant de Vadolsta
+Ancien dirigeant de Vadolsta
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

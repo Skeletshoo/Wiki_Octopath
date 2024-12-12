@@ -21,8 +21,7 @@ ___
 > | :FasUser: Race | Humaine |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Profile de Mysty Starcollar, le féminin humaine PNJ.
+Profile de Mysty Starcollar, le féminin humaine PNJ.
 #### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:

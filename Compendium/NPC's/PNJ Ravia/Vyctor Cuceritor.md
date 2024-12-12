@@ -20,8 +20,7 @@ ___
 > | :FasUser: Race |  |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Empereur de Ravia
+Empereur de Ravia
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:

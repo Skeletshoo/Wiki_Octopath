@@ -21,8 +21,7 @@ ___
 > | :FasUser: Race | Orc |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Profile de Buk'In, le masculin orc PNJ.
+Profile de Buk'In, le masculin orc PNJ.
 #### LIENS
 > [!column|flex 3]
 >> [!important]- QUÊTE:

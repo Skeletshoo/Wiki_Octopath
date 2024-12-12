@@ -20,8 +20,7 @@ ___
 > | :FasUser: Race |  |
 <span class="clearfix"></span>
 
-> [!quote|no-t]
->Fort Pouvoir dans le [[Saint-Empire de Ravia]]
+Fort Pouvoir dans le [[Saint-Empire de Ravia]]
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
