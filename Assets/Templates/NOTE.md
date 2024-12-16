@@ -75,14 +75,14 @@ Recap of the session's events here.
 >> - [[Characters]] (status)
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[PJ1]]
->> - [[PJ2]]
->> - [[PJ3]]
->> - [[PJ4]]
->> - [[PJ5]]
->> - [[PJ6]]
->> - [[PJ7]]
->> - [[PJ8]]
+>> - [[PJ_Marin]]
+>> - [[PJ_Aime]]
+>> - [[PJ_Liz]]
+>> - [[PJ_Hubert]]
+>> - [[PJ_Guillaume]]
+>> - [[PJ_Cha]]
+>> - [[PJ_Maxime]]
+>> - [[PJ_Arthur]]
 >
 >> [!example|flex] LIEUX:
 >> - [[Lieux]]
