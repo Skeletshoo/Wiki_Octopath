@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Jour_6.png]]
+> ![[IMG_6614.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -53,5 +53,19 @@ ___
 
 ![[Jour_6.png]]
 ```image-layout-masonry-3
+![[Untitled_Artwork.png]]
+![[IMG_6583.png]]
+![[IMG_6584.png]]
+![[IMG_6290.png]]
+![[IMG_6201.png]]
+![[Jour_19.png]]
+![[IMG_6614.png]]
+![[IMG_6616.png]]
+![[IMG_6617.png]]
+![[IMG_6618.png]]
+![[IMG_8798.png]]
+![[IMG_8867.png]]
+![[IMG_9682.jpg]]
+![[IMG_9728.jpg]]
 
 ```

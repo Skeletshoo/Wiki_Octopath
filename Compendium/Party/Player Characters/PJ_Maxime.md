@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Jour_7.png]]
+> ![[Jour_18.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -51,7 +51,10 @@ ___
 >>FROM "Compendium/NPC's" AND [[PJ7]]
 >>SORT file.ctime DESC
 
-![[Jour_7.png]]
 ```image-layout-masonry-3
-
+![[Judgement.png]]
+![[UnoReverse.png]]
+![[YouNeedJesus.png]]
 ```
+![[BABYGIRL_02.png]]
+![[Jour_7.png]]

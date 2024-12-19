@@ -57,9 +57,13 @@ ___
 >>FROM "Compendium/NPC's" AND [[PJ3]]
 >>SORT file.ctime DESC
 
-
-```image-layout-masonry-2
+![[BABYGIRL.png]]
+```image-layout-masonry-3
+![[D_Angy.png]]
+![[D_Baby.png]]
+![[D_Pray.png]]
 ![[dessin_liz.png]]
+![[Jour_17.png]]
 ![[tenue_liz.png]]
 ```
 
