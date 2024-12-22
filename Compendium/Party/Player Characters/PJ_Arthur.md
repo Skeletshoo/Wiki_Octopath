@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Jour_8.png]]
+> ![[Jour_22.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Jour_5.png]]
+> ![[mystery_armor.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -51,7 +51,7 @@ ___
 >>FROM "Compendium/NPC's" AND [[PJ5]]
 >>SORT file.ctime DESC
 
-![[Jour_5.png]]
+![[Jour_23.png]]
 ```image-layout-masonry-3
-
+![[Jour_5.png]]
 ```

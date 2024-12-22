@@ -28,8 +28,10 @@ ___
 > Rapport des Éclaireurs : Une humanoïde a été repérée entrant sur le territoire. Elle ne ressemble à aucune race connue sur le continent. Elle possède des traits animaux, ce qui nous rappelle un peu les Connils et les Strix vivant dans la Grande Forêt, mais nous n'en savons pas plus pour l'instant. Elle est accompagnée d'une oie, qui semble apprivoisée.
 
 > [!note] Théories
-> - Guerrier Champion
-> - Pippo
+> Miss Oie : Bébouuu ❤️ On a personnage très pipou qui part à l'aventure avec une oie. Les détails qui m'interpèllent le plus ici sont sa broche (qui je pense peuvent servir à identifier sa faction/d'où elle vient), et sa grosse boucle d'oreille avec les tatouages bleus. Ce sont deux éléments qui ne se répètent pas dans le reste du design, donc je pense qu'il sont "extérieur" au perso, que c'est lié à ce qui fait sortir cette héroïne du *monde normal* (je ref ici les trucs d'écriture classique, pour moi c lié à son appel de la quête lààà). L'autre détail que je remarque, c'est qu'on a des cheveux en dégradé, qui soit c pour montrer du pelage, soit c pour une sorte de maléfice.  
+> On a clairement une jeune héroine, qui semble probablement sortir de son village pour la première fois ? J'ai envie de dire qu'elle cherche à accomplir une mission pour un pouvoir mystique (dieu, esprits, va savoir), qui va servir à aider les gens qu'elle aime. 
+> Also mouse :> 
+> Possiblement son oie n'est pas normale. Hubert a émis l'hypothèse d'une déesse. Perso, si c'est un personnage important, peut-être qu'on a un cas où un personnage est transformé en animal contre son gré ? C'est possible que ce soit le cas pour les deux, vu que la cocotte n'est pas d'une espèce connue du continent. Donc peut-être quelqu'un qui se transforme en souris, tandis que son amie oie a été transformé? Possible que ce soit sa boucle qui permette de ralentir ça/lui permet de garder une forme humanoïde.
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]

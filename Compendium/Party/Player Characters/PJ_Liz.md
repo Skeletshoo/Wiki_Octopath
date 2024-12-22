@@ -33,9 +33,17 @@ ___
 > En plus de son écharpe, il a un collier avec un pendentif en quartz accroché à son cou. Il porte un symbole accroché sur le côté droit de son torse (écusson qui attache sa cape à son armure)
 
 > [!note] Théories
-> - Silhouette + normale, Grosse épée.
-> - 
-> - Pippo
+>Babygirl qui pray, help et angy:  Babygirl est babygirl :heart: Je pense que c'est un Aasimar, car il m'a l'air fortement orienté religion. Il me donne une aesthétique paladin, mais je pense pas que c'en est un ? Je sens que c'est un truc plus tordu, notamment à cause de l'oeil caché (qui suggère un secret).  
+>C un perso qui bonk à l'épée, mais il m'a l'air d'avoir un peu de magie sous sa ceinture. Il vient clairement d'une région froide/montagneuse/nord, possiblement d'un clergé car il a très des vibes religieux. Mais genre qui penche peut-être un peu inquisiteur. Pas méchant encore, mais je pense il connaît des gens sus.
+>En y réfléchissant, je pense que son oeil doré et le caché sont lié à sa divinité, possiblement soit via une bénédiction, soit une sorte de possession (s'il est un conduit pour elle) ou c'est une sorte de truc qui permet de soigner/stabiliser une condition médicale. Il est compétent en survie, et je pense que sa quête est de retrouver quelqu'un ou quelque chose. 
+>Et je reste sur la théorie qu'il ne dort pas car c'est un énorme nerd, qui lit bcp et fait des insomnies. Ou alors car c'est un mort-vivant, qui a été ramené par sa déesse. Excepté que lui il est clean, car il y a une raison "divine" derrière. Je sais que c pas un elfe car il a des oreilles rondes.
+>En repassant sur son blason là, qui est une main ailée devant une éclipse solaire, il m'a l'air orienté religion, orienté justice. Genre peut être que sa quête principale est liée à un vengeance ? (que ce soit sur lui, un proche, etc etc). Une eclipse m'évoque un secret, une main ailée m'évoque un espoir/une dernière aide ou hero ou quoi.
+>Sinon autres théories/theories :
+>- Peut cuisiner, mais genre ok
+>- Sait compter, lire et écrire. Peut être même "aurait pris latin en 5eme et aurait retenu des truc"
+>- Incapable de voir où sont ses limites
+>- Oscille entre parler pas assez fort et trop fort
+>- S'il n'a pas de chien chez lui, à besoin d'un chien. Ou un cheval. Compagnon
  
 #### Information Supplémentaires et Liens
 > [!column|flex 3]

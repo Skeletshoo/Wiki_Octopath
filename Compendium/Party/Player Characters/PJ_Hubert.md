@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Jour_4.png]]
+> ![[Jour_20.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -28,10 +28,9 @@ ___
 > Rapport des éclaireurs : Un individu a été repéré dans un petit village rural. Le visage partiellement dissimulé, il porte une très grande épée, mais a l'air particulièrement craintif. C'est à se demander comment il est arrivé jusqu'ici.
 
 > [!note] Théories
-> - Grosse épée -> Guerrier championnnn
-> - Pourrait être un nain ou un gnome ? - Théorie de Maxime
-> - Pourrait être Maxime, pourrait être Hubert
-> - Pippo
+>Isekaied Liz avec une grosse Épée : Ici, on a un personnage qui va vite crever de chaud s'il ne s'adapte pas au climat. Il vient clairement du Nord, des montagnes, et est clairement jeune. Il est peureux, cette énorme épée n'est pas adaptée à lui et je pense que ça va être un défi pour qu'il apprenne à la manier, ou qu'on réussisse à le convaincre de la lâcher. Il a une autre épée qu'il **décide** de ne pas utiliser, donc je pense qu'il s'entête sur la grosse pour une raison d'honneur ou d'une quête particulière. Le fait qu'il ait l'air peureux et cache son visage me laisse à penser qu'il a peut-être décidé de tenter quelque chose pour lequel il n'est vraiment pas prêt. Ou bien qu'il a pris cette épée illégalement.
+> En tous cas, très joli style en noir et blanc, et ça va avec ses yeux vairons. 
+> A l'air d'un perso du genre "incompétent et pathétique, mais à un point attachant/où ça en devient un peu adorable". Il a l'air gentil pour le moment au moins. Je souhaite de la force aux supports du groupe pour le garder en vie, car il a vraiment pas l'air méchant. Lui au moins, contrairement à d'autres.
 
 
  

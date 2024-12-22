@@ -15,7 +15,7 @@ cover: /Assets/Images/Portrait.jpg
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: TEXTE:FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Jour_1.png]]
+> ![[Jour_21.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -28,11 +28,10 @@ ___
 > Rapport des éclaireurs : Un humanoïde en armure a été repérée aux abords des frontières. Impossible de dire si c'est un homme ou une femme, mais quoi qu'il en soit, cette personne est immense ! Deux mètres cinquante au bas mot. Jusqu'ici, il a progressé sans causer de problème, nous restons à l'affut.
 
 > [!note] Théories
-> C probablement Marin.
-> Car il a dit qu'il était grand
-> et ce perso est grand 🧠
-> Semble avoir un gros bouclier, et une espèce de cape/armure, pommeau d'épée visible, humanoïde, très grand, voyageur? Probablement goliath ou semi-géant
-> grosses bottes
+> Robomaxotor : Alors j'avais guess géant, j'avais guess goliath pour lui, et qu'est ce qu'on a ? Un big robot. Hé oui. Il a des vibes très steampunk. Peut-être qu'il est cyborg à 90% robot. On se demande qui vient du Culte de l'Innovation. On se demande combiens de cultistes on va avoir dans ce groupe lààààà. 
+> Bon déjà, il a un big bouclier, et il va s'en servir. Enfin un perso martial qui semble me confirmer qu'il ne va pas crever au deuxième tour de combat, c'est bô ptn.  On a perso très grand, très imposant, à l'air très solide. Donc ça m'étonne pas qu'il vienne d'une région difficile (~~Agartha~~), car si t'est un robot au moins t'a pas à gérer la bouffe ou la respiration, etc etc. Après, ce qui m'étonne, c'est qu'on a un robot qui est **très** détaillé, donc c'est étrange venant d'un endroit qu'on a découvert il y a 50 ans, et duquel les gens reviennent fous (quand ils reviennent).
+> Maintenant vient la question de qu'est ce qu'il fait là. Jsp, et il me fait peur. Qu'est ce qu'il fait ? Il a un tête de semi-caster, mais je vais écarter l'artificier ? Je pense ? Je croiiiis ??? Il a très l'air d'un Artificier mais j'ai envie de dire que son joueur aurait envie d'autre chise
+>  ??
 
  
 #### Information Supplémentaires et Liens
