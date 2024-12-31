@@ -75,14 +75,14 @@ Recap of the session's events here.
 >> - [[Characters]] (status)
 >
 >> [!info|felx] Personnages Joueurs:
->> - [[PJ_Marin]]
->> - [[PJ_Aime]]
->> - [[PJ_Liz]]
->> - [[PJ_Hubert]]
->> - [[PJ_Guillaume]]
->> - [[PJ_Cha]]
->> - [[PJ_Maxime]]
->> - [[PJ_Arthur]]
+>> - [[Nous]]
+>> - [[Carillon]]
+>> - [[Dӑrwyn]]
+>> - [[Hérisson]]
+>> - [[Viktor]]
+>> - [[Clove]]
+>> - [[Morgann]]
+>> - [[Xelyth]]
 >
 >> [!example|flex] LIEUX:
 >> - [[Lieux]]
