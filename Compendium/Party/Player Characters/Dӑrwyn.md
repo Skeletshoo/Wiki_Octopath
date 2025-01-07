@@ -12,7 +12,7 @@ cover: /Assets/Images/Party/Dӑrwyn/BABYGIRL.png
 ---
 
 ###### Dӑrwyn
-:FasPerson: (Titre ?) &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
+:FasPerson: Le Dévot &nbsp; | &nbsp; :FasQuoteLeft: EXEMPLE :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[Jour_17.png]]

@@ -16,11 +16,11 @@ ___
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Occupation |  Religieux |
-> | :FasVenusMars: Genre | ? |
-> | :FasUser: Race |  |
+> | :FasVenusMars: Genre | Féminin |
+> | :FasUser: Race | Elfe |
 <span class="clearfix"></span>
 
-Fort Pouvoir dans le [[Saint-Empire de Ravia]]
+La Sainteté est la dirigeante de l'Eglise de l'Aurore Céleste et grande prêtresse de la déesse Aur' Anor. Selon les dires de Dӑrwyn, elle serait une elfe très âgée.
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
