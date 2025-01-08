@@ -7,7 +7,7 @@ headerLink: "[[Les Élémentaires#Les Élémentaires]]"
 <span class="sub2">:LiPersonStanding:: Peuple</span>
 ___
 
-Yaaaaaaay ils envoient des lettreeeeees!!!! Au moisn certains, ils ne sont pas tous aussi sympathiques :(((
+Yaaaaaaay ils envoient des lettreeeeees!!!! Au moins certains, ils ne sont pas tous aussi sympathiques :(((
  
 
 ***

@@ -14,6 +14,7 @@ ___
 
  ![[embed.jpg|right wm-sm]] Un culte.
  Actuellement, des rumeurs disent que ce culte est en train de prendre racines dans le [[Saint-Empire de Ravia]].
+ Pour [[Nous]], ce culte est un problème et il ne faut pas leur faire confiance.
  <br><br><br><br><br><br><br>
 > [!column]
 >> [!info] Column 1

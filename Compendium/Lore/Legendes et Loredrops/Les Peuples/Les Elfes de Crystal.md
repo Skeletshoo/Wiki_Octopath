@@ -9,7 +9,7 @@ ___
 
 
 > [!quote|no-t]
-> Probablement, savent faire bcp de mécano. [[Viktor]] a été construit par des elfes.
+> Probablement, savent faire bcp de mécano. [[Viktor]] a été construit par des elfes, et [[Nous]] en recherche pour une raison inconnu (il ne souhaite cependant pas leur faire de mal, selon ses dires)
  
 
 ***
