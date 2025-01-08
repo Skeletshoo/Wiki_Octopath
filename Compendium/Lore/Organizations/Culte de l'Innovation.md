@@ -13,6 +13,7 @@ ___
 
 
  ![[embed.jpg|right wm-sm]] Un culte.
+ Actuellement, des rumeurs disent que ce culte est en train de prendre racines dans le [[Saint-Empire de Ravia]].
  <br><br><br><br><br><br><br>
 > [!column]
 >> [!info] Column 1

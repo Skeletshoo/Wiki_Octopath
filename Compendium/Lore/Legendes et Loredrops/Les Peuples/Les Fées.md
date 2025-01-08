@@ -6,22 +6,13 @@ headerLink: "[[Les Fées#Les Fées]]"
 ###### __Les Fées__
 <span class="sub2">:LiPersonStanding:: Peuple</span>
 
-> [!infobox|no-t right]
-> ###### Details:
-> | Type | Stat |
-> | ---- | ---- |
-> | :FasCrown: Texte   | Texte |
-> | :RiSwordFill: Texte   | Texte |
-> | :FasCircleQuestion: Texte   | Texte |
-> |  :FasUserGroup: Texte   | Texte |
-
 > [!quote|no-t]
 > Texte
  
 
 ***
 #### Sur les Fées
-![[Sylvari_02_concept_art_(transparent).png|right wm-sm]]Dans les lieux enchantés du Continent vivent les peuples féériques. Ce petit peuple est sans doute un lointain cousin des dieux. Des cousins plus faibles, certes. Et avec un sens de l’humour douteux.
+![[Sylvari_02_concept_art_(transparent).png|left w-small]]Dans les lieux enchantés du Continent vivent les peuples féériques. Ce petit peuple est sans doute un lointain cousin des dieux. Des cousins plus faibles, certes. Et avec un sens de l’humour douteux.
 
 Si vous les contentez, vous vivrez une vie longue et prospère. Mais les contrarier vous mènera à votre perte.
 

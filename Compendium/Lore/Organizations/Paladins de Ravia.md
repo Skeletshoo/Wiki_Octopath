@@ -12,7 +12,7 @@ headerLink: "[[Paladins de Ravia#Paladins de Ravia]]"
 ___
 
 ![[embed.jpg|right wm-sm]]J'inclut les Paladins et les Inquisiteurs là dedans.
-À la rechercher des Fils de Melva. 
+À la rechercher des [[Fils de Melva]]. 
 
 #### LIENS
 > [!column|flex 3]

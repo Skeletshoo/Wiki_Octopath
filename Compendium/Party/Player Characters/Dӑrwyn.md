@@ -25,7 +25,7 @@ ___
 > |  :FasUserGroup: Race |  `=this.race`|
 
 > [!quote|no-t]
-> Rapport des éclaireurs : Un homme a été aperçu rôdant dans les villages alentours. Il porte une tenue avec un blason que nous n'avons pas reconnu. Les cheveux blancs, il a une épée à la ceinture. Nous avons du mal à suivre sa trace car il semble dormir assez peu.
+> Dӑrwyn est un vagabond qui est partie en voyage pour une raison encore inconnu. Il semble être dévoué à la déesse Aur' Anor, auprès duquel il tire ses pouvoirs.
 
 > [!info] Description
 > ![[symbol_liz.png|left wm-sm]]  C'est un homme qui semble agé d'environ 40 ans. Il a de long cheveux blanc, donc une mèche qui cache son œil droit. Derrière la mèche il y a un cache œil en cuir noir. Son seul œil visible est jaune/dorée
@@ -34,7 +34,7 @@ ___
 
 > [!column|flex 2]
 >> [!example]- Prisme
->>  Dévie un rayon de lumière en utilisant le corps comme vecteur. Le rayon ainsi dévié transperce les ténèbres magiques.Luminescence - Projette une petite orbe lumineuse sur un ennemi pour tenter de l'aveugler.
+>>  Dévie un rayon de lumière en utilisant le corps comme vecteur. Le rayon ainsi dévié transperce les ténèbres magiques.
 >> 
 >
 >>[!example]- Luminescence

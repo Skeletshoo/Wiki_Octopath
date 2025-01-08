@@ -36,7 +36,7 @@ Bien que [[Royaume de Valdosta|Valdosta]] était supérieur militairement, le so
 
 *Manuel des aventuriers, fourni dans toutes les filiales de [[La Guilde Des Aventuriers|la Guilde]]*
 
-+ -200 ans
++ ~An 640
 + Arrêt des Objets Magiques
 + Il y a environs 200 ans, la création de nouveaux objets magiques est devenue impossible pour une raison inconnue.
 
@@ -47,7 +47,7 @@ Bien que [[Royaume de Valdosta|Valdosta]] était supérieur militairement, le so
 *[[Buk'In]], Orc conservateur de la bibliothèque de l'Université de [[Kumro]]*
 
 
-+ -300 Ans
++ ~An 540
 + [[LORE_Sur les Labyrinthes|Ouverture des Labyrinthes]]
 + Quoi que fût cette dimension, il semblerait qu'elle eut été coupé de la notre à une certaine époque et a été redécouverte il y a environ 3 siècles, lorsque des portes tout à fait ordinaire se mirent à s'ouvrir sur le [[Les Labyrinthes|Labyrinthe]]. Depuis, des aventuriers se précipitent à l'intérieur dans l'espoir d'obtenir richesse ou renommée, mais ils reviennent souvent la queue entre les jambes après une déconvenue avec un monstre local.
 

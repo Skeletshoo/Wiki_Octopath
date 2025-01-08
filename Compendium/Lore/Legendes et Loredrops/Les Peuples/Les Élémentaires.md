@@ -6,14 +6,6 @@ headerLink: "[[Les Élémentaires#Les Élémentaires]]"
 ###### __Les Élémentaires__
 <span class="sub2">:LiPersonStanding:: Peuple</span>
 ___
-> [!infobox|no-t right]
-> ###### Details:
-> | Type | Stat |
-> | ---- | ---- |
-> | :FasCrown: Texte   | Texte |
-> | :RiSwordFill: Texte   | Texte |
-> | :FasCircleQuestion: Texte   | Texte |
-> |  :FasUserGroup: Texte   | Texte |
 
 Yaaaaaaay ils envoient des lettreeeeees!!!! Au moisn certains, ils ne sont pas tous aussi sympathiques :(((
  

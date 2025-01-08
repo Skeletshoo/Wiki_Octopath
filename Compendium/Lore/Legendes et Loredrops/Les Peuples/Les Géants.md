@@ -6,14 +6,7 @@ headerLink: "[[Les Géants#Les Géants]]"
 ###### __Les Géants__
 <span class="sub2">:LiPersonStanding:: Peuple</span>
 ___
-> [!infobox|no-t right]
-> ###### Details:
-> | Type | Stat |
-> | ---- | ---- |
-> | :FasCrown: Texte   | Texte |
-> | :RiSwordFill: Texte   | Texte |
-> | :FasCircleQuestion: Texte   | Texte |
-> |  :FasUserGroup: Texte   | Texte |
+
 
 
 Un peuple autrefois beaucoup plus présent sur le Continent. Peu de contacts avec l'extérieur.

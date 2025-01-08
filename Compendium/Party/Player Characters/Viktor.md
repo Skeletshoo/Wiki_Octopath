@@ -58,9 +58,12 @@ ___
 
 
 ```image-layout-masonry-3
-![[Jour_23.png]]
+
 ![[BABYGIRL_07.png]]
 ![[tismgui.png]]
+![[Jour_23.png]]
+![[armure_wip.png]]
+![[Embleme_viktor.png]]
 
 ```
 ![[Jour_5.png]]
