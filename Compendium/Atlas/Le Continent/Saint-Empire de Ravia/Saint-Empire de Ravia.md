@@ -67,13 +67,13 @@ SORT file.ctime DESC
 > [!column|flex 3]
 > 
 > > [!tip]- **[[Vyctor Cuceritor]]**
-> > Empereur
+> > Empereur du Saint Empire de Ravia et ancien roi du royaume de Ravia.
 >
-> > [!faq]- **[[Sa Sainteté de l'Aurore Céleste]]**
-> > Probablement, religieux important
+> > [!tip]- **[[Sa Sainteté de l'Aurore Céleste]]**
+> > Chef de l'église de l'Aurore Céleste.
 >
-> > [!note]- **Nom**
-> > Description
+> > [!tip]- **[[Dӑrwyn]]**
+> > Aventurier et chasseur de monstres.
 >
 > > [!success]- **Nom**
 > > Description
@@ -124,6 +124,7 @@ SORT file.ctime DESC
 
 
 ### Images
+![[RaviaCarteAvecEchelle.png]]
 ```image-layout-masonry-3
 
 

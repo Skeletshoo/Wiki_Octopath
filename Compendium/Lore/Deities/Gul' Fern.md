@@ -16,9 +16,11 @@ ___
 > | ---- | ---- |
 > | :FasBoltLightning: Domaines | Non-vie |
 > | :FasVenusMars: Genre | Masculin |
-> | :FasBuildingColumns: Panthéon | Ravien |
+> | :FasBuildingColumns: Panthéon | Melvien |
 
-Profile de Gul' Fern, le inconnu masculin Divinité.
+Gul' Fern est le dieu Melvien de la non-mort. Il est considéré comme une divinité maléfique par les habitant du Saint Empire, car il est l'ennemi de la déesse [[Aur' Anor]].
+
+Gul' Fern est le principal responsable de l'état actuel des [[Terres Oubliées]].
 
 #### LIENS
 > [!column|flex 3]

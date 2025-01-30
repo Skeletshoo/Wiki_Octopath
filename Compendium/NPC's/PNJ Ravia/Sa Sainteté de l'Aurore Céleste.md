@@ -20,7 +20,7 @@ ___
 > | :FasUser: Race | Elfe |
 <span class="clearfix"></span>
 
-La Sainteté est la dirigeante de l'Eglise de l'Aurore Céleste et grande prêtresse de la déesse Aur' Anor. Selon les dires de Dӑrwyn, elle serait une elfe très âgée.
+La Sainteté est la dirigeante de l'Eglise de l'Aurore Céleste et grande prêtresse de la déesse [[Aur' Anor]]. Selon les dires de [[Dӑrwyn]], elle serait une elfe très âgée.
 #### marker
 > [!column|flex 3]
 >> [!important]- QUÊTE:
