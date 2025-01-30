@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Eruscus#Eruscus]]"
 ---
 
-![[banner.jpg|banner+tall]]
+![[Escurus.jpg|banner+tall]]
 ###### Eruscus
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Forêt d'Arsuri#Forêt d'Arsuri]]"
 ---
 
-![[banner.jpg|banner+tall]]
+![[Foret_Arsuri2.jpg|banner+tall]]
 ###### Forêt d'Arsuri
 <span class="sub2">:FasTree: Forest</span>
 ___

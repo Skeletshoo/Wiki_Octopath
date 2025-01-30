@@ -8,7 +8,7 @@ tags:
 headerLink: "[[Tour d'Arcturus#Tour d'Arcturus]]"
 ---
 
-![[banner.jpg|banner+tall]]
+![[Tour_1.jpg|banner+tall]]
 ###### Tour d'Arcturus
 <span class="sub2">:FasHouse: Residence</span>
 ___

@@ -7,7 +7,7 @@ tags:
 headerLink: "[[Terres Oubliées#Terres Oubliées]]"
 ---
 
-![[8 - Znqnh6a.jpg|banner+tall]]
+![[hehehe.jpg|banner+tall]]
 ###### Terres Oubliées
 <span class="sub2">:FasMap: General Region</span>
 ___
