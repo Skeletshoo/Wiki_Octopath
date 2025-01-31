@@ -2,10 +2,10 @@
 type: pc
 tags:
   - class/EXEMPLE
-  - race/EXEMPLE
+  - race/Arcanaloth
 headerLink: "[[Xelyth#Scrivain Zylfrax Xelyth]]"
 level: "3"
-race: Inconnu
+race: Arcanaloth?
 class: Inconnu
 subClass: Inconnu
 cover: /Assets/Images/Party/Xelyth/BABYGIRL_06.png

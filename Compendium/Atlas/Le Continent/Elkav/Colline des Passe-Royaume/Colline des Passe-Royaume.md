@@ -1,15 +1,15 @@
 ---
-type: region
+type: locale
 locations:
- - "[[Le Continent]]"
+ - "[[Elkav]]"
 tags:
- - location/country
-headerLink: "[[Elkav#Elkav]]"
+ - location/plains
+headerLink: "[[Colline des Passe-Royaume#Colline des Passe-Royaume]]"
 ---
 
-![[083 - xDjEQzg.jpg|banner+tall]]
-###### Elkav
-<span class="sub2">:FasFlag: Country</span>
+![[CollinePasseRoyaume.jpg|banner+tall]]
+###### Colline des Passe-Royaume
+<span class="sub2">:FasWheatAwn: Plains</span>
 ___
 
 > [!infobox|no-t right]
@@ -20,28 +20,14 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-
-Description of the country Elkav.
-
-
-***
-## __Sur [[Elkav]]__
-
-Peu sont ceux qui entre dans le noyau dur de cette nation. La partie centrale, en forme d'hexagone régulier, contient l'intégralité de sa population.
-
-La délimitation de ce noyau est très marquée, car le paysage change radicalement de l'intérieur à l'extérieur. Là où la majorité du territoire d'Elkav pourrait être comparé à la topographie de [[Ryby]], sa zone centrale possède un marais, une forêt de champignons ou encore de grandes montagnes.
-
-Les habitants de ce noyau ne commercent ni ne communiquent avec les autres pays. Renfermés sur eux-mêmes, ils laissent généralement les voyageurs passer, mais là plupart ont trop peur de s'aventurer en cet endroit. On raconte que de nombreux aventuriers ne sont jamais revenus de l'intérieur des frontières.
-
-Le reste du territoire qui est attribué à Elkav l'est en grande partie par "tradition". Depuis des temps anciens, ces terres appartiennent à ce pays, et personne n'oserait tenter de les lui reprendre. Cependant, cette zone "neutre" ne semble pas administrée par le noyau. Les aventuriers et voyageurs en quête de terres sauvages s'y aventurent donc régulièrement.
-
-*L'__Atlas du Continent, recueil de cartes et de légendes__*
+Description de plains Colline des Passe-Royaume.
 
 
 ### Géographie
-TEXTE ICI
 
+TEXTE ICI
 ##### Lieux Annexes
+
 > [!column|flex 3]
 >
 > > [!tip]- **Nom**
@@ -55,24 +41,26 @@ TEXTE ICI
 >
 > > [!success]- **Nom**
 > > Description
->
->> [!example]- Lieux - Liste
->>```dataview
+
+> [!example]- LIEUX - Liste
+>```dataview
 LIST WITHOUT ID headerLink
-FROM "Compendium/Atlas/Le Continent/Elkav"
-WHERE type= "locale"
+FROM "Compendium/Atlas/Le Continent/Elkav/Colline des Passe-Royaume"
+WHERE type= "landmark"
 SORT file.name ASC
 
 ### Histoire
+
 TEXTE ICI
 
-> [!note]- Évènements
+> [!note]- ÉVÈNEMENTS
 >```dataview
 LIST WITHOUT ID headerLink
-FROM "Compendium/Lore/Events" AND [[Elkav]]
+FROM "Compendium/Lore/Events" AND [[Colline des Passe-Royaume]]
 SORT file.ctime DESC
 
 ### Figures Importantes
+
 > [!column|flex 3]
 >
 > > [!tip]- **Nom**
@@ -99,21 +87,21 @@ dv.list(dv.pages('"Compendium/NPC\'s"')
 >>```
 >>```dataviewjs
 dv.container.className += ' npcChild';
-let page = dv.current().file.path;
-let pages = new Set();
-let stack = [page];
+const page = dv.current().file.path;
+const pages = new Set();
+const stack = [page];
 while (stack.length > 0) {
-let elem = stack.pop();
-let meta = dv.page(elem);
+const elem = stack.pop();
+const meta = dv.page(elem);
 if (!meta) continue;
-for (let inlink of meta.file.inlinks.concat(meta.file.outlinks).array()) {
-let locations = dv.page(inlink.path);
+for (const inlink of meta.file.inlinks.concat(meta.file.outlinks).array()) {
+const locations = dv.page(inlink.path);
 if (!locations || pages.has(inlink.path) || inlink.path === meta.locations?.[0]) continue;
  if (dv.array(locations.locations).join(", ").includes(meta.file.path)) {
  pages.add(inlink.path);
  stack.push(inlink.path);
 }}}
-let data = Array.from(pages)
+const data = Array.from(pages)
 .filter(p => dv.page(p)?.type === "npc")
 .map(p => dv.page(p).headerLink)
 .sort((a, b) => {
@@ -125,22 +113,21 @@ dv.list(data);
 
 
 ### Culture et Éléments Annexes
+
+
+
 > [!example]- Quand sommes-nous passés là-bas ?
 >```dataview
 LIST WITHOUT ID headerLink
-FROM "Session Notes" AND [[Elkav]]
+FROM "Session Notes" AND [[Colline des Passe-Royaume]]
 SORT file.ctime DESC
 
 
 ### Images
 ```image-layout-masonry-3
 
-
-
 ```
 
 ### Références
-
-
 
 

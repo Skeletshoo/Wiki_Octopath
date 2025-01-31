@@ -4,7 +4,7 @@ locations:
   - "[[Saint-Empire de Ravia]]"
 tags:
   - job/religieux
-headerLink: "[[Sa Sainteté de l'Aurore Céleste#Sa Sainteté de l'Aurore Céleste]]"
+headerLink: "[[Sainteté de l'Aurore Céleste#Sa Sainteté de l'Aurore Céleste]]"
 ---
 ###### Sa Sainteté de l'Aurore Céleste
 <span class="sub2">:FasMapLocationDot: [[Saint-Empire de Ravia#Saint Empire de Ravia]] </span>
@@ -26,9 +26,9 @@ La Sainteté est la dirigeante de l'Eglise de l'Aurore Céleste et grande prêtr
 >> [!important]- QUÊTE:
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Compendium/Party/Quests" AND [[Sa Sainteté de l'Aurore Céleste]]
+>>FROM "Compendium/Party/Quests" AND [[Sainteté de l'Aurore Céleste]]
 >
 >>[!note]- HISTOIRE
 >>```dataview
 >>LIST WITHOUT ID headerLink
->>FROM "Session Notes" AND [[Sa Sainteté de l'Aurore Céleste]]
+>>FROM "Session Notes" AND [[Sainteté de l'Aurore Céleste]]

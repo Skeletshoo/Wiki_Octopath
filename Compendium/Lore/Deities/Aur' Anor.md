@@ -20,7 +20,7 @@ ___
 
 Aur' Anor est la déesse Melvienne de la lumière et des domaines qui y sont associé, comme la guérison ou la conquête. Elle est considéré comme la protectrice des habitants du [[Saint-Empire de Ravia]], ce qui lui a permis d'en' devenir la déesse principal.
 
-Son principal clergé est l'Aurore Céleste, auprès duquel officie [[Sa Sainteté de l'Aurore Céleste]].
+Son principal clergé est l'Aurore Céleste, auprès duquel officie [[Sainteté de l'Aurore Céleste]].
 
 Elle est l'ennemi juré du dieu de la non-mort [[Gul' Fern]].
 

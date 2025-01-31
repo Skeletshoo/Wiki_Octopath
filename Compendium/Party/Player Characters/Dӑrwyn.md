@@ -2,10 +2,10 @@
 type: pc
 tags:
   - class/EXEMPLE
-  - race/EXEMPLE
+  - race/Aasimar
 headerLink: "[[Dӑrwyn#Dӑrwyn]]"
 level: "3"
-race: Inconnu
+race: Aasimar?
 class: Inconnu
 subClass: Inconnu
 cover: /Assets/Images/Party/Dӑrwyn/BABYGIRL.png

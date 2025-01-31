@@ -50,7 +50,7 @@ SORT file.name ASC
 ### Histoire
 > [!abstract] **Sur le [[Saint-Empire de Ravia]]**
 > La création du Saint-Empire est très récente. C'est après la [[Seconde Guerre Sainte]] que le [[Royaume de Ravia]] absorba son voisin, le [[Royaume de Valdosta]].
-> C'est [[Vyctor Cuceritor]], l'actuel dirigeant, et [[Sa Sainteté de l'Aurore Céleste]], déclarèrent la guerre pour trahison et hérésie en [[An 832|832]].
+> C'est [[Vyctor Cuceritor]], l'actuel dirigeant, et [[Sainteté de l'Aurore Céleste]], déclarèrent la guerre pour trahison et hérésie en [[An 832|832]].
 > Neuf ans plus tard, en [[An 841|841]], après neuf mois de siège de la capitale, [[Virgil Ardere]], dirigeant de Valdosta, capitula.
 > 
 > Bien que [[Royaume de Valdosta|Valdosta]] était supérieur militairement, le soulèvement de sa population l'affaiblit considérablement au cours de la guerre, ce qui permit à Ravia de facilement prendre l'avantage.
@@ -69,7 +69,7 @@ SORT file.ctime DESC
 > > [!tip]- **[[Vyctor Cuceritor]]**
 > > Empereur du Saint Empire de Ravia et ancien roi du royaume de Ravia.
 >
-> > [!tip]- **[[Sa Sainteté de l'Aurore Céleste]]**
+> > [!tip]- **[[Sainteté de l'Aurore Céleste]]**
 > > Chef de l'église de l'Aurore Céleste.
 >
 > > [!tip]- **[[Dӑrwyn]]**

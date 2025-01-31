@@ -22,7 +22,7 @@ ___
 > | :FasUser: Race | Demi-Elfe |
 <span class="clearfix"></span>
 
-Lily Stea est une magicienne du Saint Empire de Ravia et amie de Dӑrwyn. Une partie du groupe est partie la voir pour des raisons différentes.
+Lily Stea est une magicienne du [[Saint-Empire de Ravia]] et amie de [[Dӑrwyn]]. Une partie du groupe est partie la voir pour des raisons différentes.
 
 
 #### LIENS

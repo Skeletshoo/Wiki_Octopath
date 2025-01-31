@@ -29,7 +29,7 @@ Si vous la croisez au cours de vos aventures, dites-lui que [[La Guilde des Aven
 > Description:
 > Elle porte une tenue d'exploratrice composée d'un t-shirt, d'une veste et d'un pantalon pratique (limite un legging) ainsi que des bottines. Un gros sac en bandoulière contient son matos (posée près d'elle si possible pour la pose) Elle a pour seule arme une rapière fine qu'elle porte à la ceinture
 
-Est probablement liée à [[Mysty Starcollar]]
+[[Mysty Starcollar]] est sa mère.
 
 
 #### LIENS

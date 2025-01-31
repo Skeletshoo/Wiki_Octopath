@@ -5,7 +5,7 @@ tags:
   - race/EXEMPLE
 headerLink: "[[Hérisson#Hérisson]]"
 level: "3"
-race: Inconnu
+race: Humain?
 class: Inconnu
 subClass: Inconnu
 cover: /Assets/Images/Party/Hérisson/BABYGIRL_04.png

@@ -5,7 +5,7 @@ tags:
   - race/EXEMPLE
 headerLink: "[[Viktor#Viktor]]"
 level: "3"
-race: Inconnu
+race: Forgelier?
 class: Inconnu
 subClass: Inconnu
 cover: /Assets/Images/Party/Viktor/BABYGIRL_07.png
