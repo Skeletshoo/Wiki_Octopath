@@ -6,7 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasFolder"
+      "FasDiamond"
     ],
     "recentlyUsedIconsSize": 1,
     "rules": [],
@@ -52,5 +52,23 @@
   "Compendium/Party": "FasAddressBook",
   "Compendium/Party/Quest": "FasCircleExclamation",
   "Compendium/Party/Player Characters": "FasUser",
-  "Compendium/NPC's": "FasUsers"
+  "Compendium/NPC's": "FasUsers",
+  "Compendium/Atlas/Le Continent/Désert Magique": "LiDiamond",
+  "Compendium/Atlas/Le Continent/Elkav": "FasDiamond",
+  "Compendium/Atlas/Le Continent/Grande Forêt des Fées": "LiDiamond",
+  "Compendium/Atlas/Le Continent/Landes d'Agartha": "LiDiamond",
+  "Compendium/Atlas/Le Continent/Saint-Empire de Ravia": "FasDiamond",
+  "Compendium/Atlas/Le Continent/Terres Oubliées": "LiDiamond",
+  "Compendium/Atlas/Eruscus": "RiMistFill",
+  "Compendium/Atlas/Fantasma": "FasGhost",
+  "Compendium/Atlas/Le Continent/Empire de Melva": "LiDiamond",
+  "Compendium/Atlas/Le Continent/Ryby": "LiDiamond",
+  "Compendium/Atlas/Le Continent/Elkav/Colline des Passe-Royaume": "LiDoorOpen",
+  "Compendium/Atlas/Le Continent/Laddina/Uttigereram/Khantevalac": "FasCity",
+  "Compendium/Atlas/Le Continent/Laddina": "FasDiamond",
+  "Compendium/Atlas/Le Continent/Laddina/Uttigereram": "FasVolcano",
+  "Compendium/Atlas/Le Continent/Saint-Empire de Ravia/Royaume de Ravia/Forêt d'Arsuri": "LiTrees",
+  "Compendium/Atlas/Le Continent/Saint-Empire de Ravia/Royaume de Ravia/Forêt d'Arsuri/Tour d'Arcturus": "FasHatWizard",
+  "Compendium/Atlas/Le Continent/Saint-Empire de Ravia/Royaume de Ravia/Forêt d'Arsuri/Koskov": "FasCity",
+  "Compendium/Atlas/Le Continent/Kumro": "LiDiamond"
 }

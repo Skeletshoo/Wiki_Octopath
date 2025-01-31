@@ -13,7 +13,7 @@ headerLink: "[[Tour d'Arcturus#Tour d'Arcturus]]"
 <span class="sub2">:FasHouse: Residence</span>
 ___
 
-C là où lily habite :-)
+La Tour d'Arcturus est la résidence de la magicienne [[Lily Stea]].
 
 #### LIENS
 > [!column|flex 3]
