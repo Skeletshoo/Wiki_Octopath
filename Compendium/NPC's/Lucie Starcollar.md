@@ -9,7 +9,7 @@ tags:
 headerLink: "[[Lucie Starcollar#Lucie Starcollar]]"
 ---
 ###### Lucie Starcollar
-<span class="sub2">:FasMapLocationDot: [[?#?]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: ? </span>
+<span class="sub2">:FasMapLocationDot: [[?#?]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Amicale </span>
 ___
 
 > [!infobox|no-t right]

@@ -1,15 +1,15 @@
 ---
-type: region
+type: locale
 locations:
- - "[[Le Continent]]"
+ - "[[Saint-Empire de Ravia]]"
 tags:
- - location/kingdom
-headerLink: "[[Empire de Melva#Empire de Melva]]"
+ - location/city
+headerLink: "[[Traiatar#Traiatar]]"
 ---
 
-![[EmpireMelva.jpg|banner+tall]]
-###### Empire de Melva
-<span class="sub2">:FasChessRook: Kingdom</span>
+![[Traiatar.jpg|banner+tall]]
+###### Traiatar
+<span class="sub2">:FasCity: City</span>
 ___
 
 > [!infobox|no-t right]
@@ -20,14 +20,14 @@ ___
 > | :RiSwordFill: **Région** |  `=this.location`|
 > | **Capitale** |  `=this.subClass`|
 
-L'Empire de Melva est un ancien Empire effondré depuis bien longtemps. C'est sur ses cendres qu'ont été fondée de nombreux royaumes, puis le [[Saint-Empire de Ravia]].
+Traiatar est la capitale du [[Saint-Empire de Ravia]], et l'ancienne capitale du [[Royaume de Ravia]].
 
-On raconte qu'il a été fondé par le tout premier Empereur : [[Gabriel]]
 
 ### Géographie
-TEXTE ICI
 
+TEXTE ICI
 ##### Lieux Annexes
+
 > [!column|flex 3]
 >
 > > [!tip]- **Nom**
@@ -41,24 +41,26 @@ TEXTE ICI
 >
 > > [!success]- **Nom**
 > > Description
->
->> [!example]- Lieux - Liste
->>```dataview
+
+> [!example]- LIEUX - Liste
+>```dataview
 LIST WITHOUT ID headerLink
-FROM "Compendium/Atlas/Le Continent/Empire de Melva"
-WHERE type= "locale"
+FROM "Compendium/Atlas/Le Continent/Saint-Empire de Ravia/Traiatar"
+WHERE type= "landmark"
 SORT file.name ASC
 
 ### Histoire
+
 TEXTE ICI
 
-> [!note]- Évènements
+> [!note]- ÉVÈNEMENTS
 >```dataview
 LIST WITHOUT ID headerLink
-FROM "Compendium/Lore/Events" AND [[Empire de Melva]]
+FROM "Compendium/Lore/Events" AND [[Traiatar]]
 SORT file.ctime DESC
 
 ### Figures Importantes
+
 > [!column|flex 3]
 >
 > > [!tip]- **Nom**
@@ -85,21 +87,21 @@ dv.list(dv.pages('"Compendium/NPC\'s"')
 >>```
 >>```dataviewjs
 dv.container.className += ' npcChild';
-let page = dv.current().file.path;
-let pages = new Set();
-let stack = [page];
+const page = dv.current().file.path;
+const pages = new Set();
+const stack = [page];
 while (stack.length > 0) {
-let elem = stack.pop();
-let meta = dv.page(elem);
+const elem = stack.pop();
+const meta = dv.page(elem);
 if (!meta) continue;
-for (let inlink of meta.file.inlinks.concat(meta.file.outlinks).array()) {
-let locations = dv.page(inlink.path);
+for (const inlink of meta.file.inlinks.concat(meta.file.outlinks).array()) {
+const locations = dv.page(inlink.path);
 if (!locations || pages.has(inlink.path) || inlink.path === meta.locations?.[0]) continue;
  if (dv.array(locations.locations).join(", ").includes(meta.file.path)) {
  pages.add(inlink.path);
  stack.push(inlink.path);
 }}}
-let data = Array.from(pages)
+const data = Array.from(pages)
 .filter(p => dv.page(p)?.type === "npc")
 .map(p => dv.page(p).headerLink)
 .sort((a, b) => {
@@ -111,22 +113,21 @@ dv.list(data);
 
 
 ### Culture et Éléments Annexes
+
+
+
 > [!example]- Quand sommes-nous passés là-bas ?
 >```dataview
 LIST WITHOUT ID headerLink
-FROM "Session Notes" AND [[Empire de Melva]]
+FROM "Session Notes" AND [[Traiatar]]
 SORT file.ctime DESC
 
 
 ### Images
 ```image-layout-masonry-3
 
-
-
 ```
 
 ### Références
-
-
 
 

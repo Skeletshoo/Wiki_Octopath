@@ -13,7 +13,7 @@ headerLink: "[[Ilrune#Ilrune]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[IlruneSymbole.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

@@ -9,11 +9,11 @@ tags:
 headerLink: "[[Lily Stea#Lily Stea]]"
 ---
 ###### Lily Stea
-<span class="sub2">:FasMapLocationDot: [[Tour d'Arcturus#Tour d'Arcturus]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Inconnu </span>
+<span class="sub2">:FasMapLocationDot: [[Tour d'Arcturus#Tour d'Arcturus]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Amicale </span>
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg]]
+> ![[minilily.png]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -24,6 +24,7 @@ ___
 
 Lily Stea est une magicienne du [[Saint-Empire de Ravia]] et amie de [[Dӑrwyn]]. Une partie du groupe est partie la voir pour des raisons différentes.
 
+Elle vit au sein de la [[Tour d'Arcturus]], dans laquelle elle peut se dédier à l'étude de la magie et des astres.
 
 #### LIENS
 > [!column|flex 3]
